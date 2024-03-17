@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Statically typed variables\Statically typed variables\bin\Debug\Statically typed variables.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Statically typed variables\Statically typed variables\bin\Debug\Statically typed variables.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Statically typed variables\Statically typed variables\bin\Debug\Statically typed variables.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Statically typed variables\Statically typed variables\obj\Debug\Statically typed variables.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Statically typed variables\Statically typed variables\obj\Debug\Statically typed variables.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Statically typed variables\Statically typed variables\obj\Debug\Statically typed variables.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Statically typed variables\Statically typed variables\obj\Debug\Statically typed variables.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Statically typed variables\Statically typed variables\obj\Debug\Statically typed variables.pdb

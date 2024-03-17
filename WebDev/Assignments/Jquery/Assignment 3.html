@@ -1,0 +1,86 @@
+<html>
+<head>
+<title>Jquery Assignment 1</title>
+<script src="C:\Users\SANDESH\Desktop\RI-Tech\Git-webdev\Web Devolopement\jQuery\Jquery.js"></script>
+<style>
+
+#main-div{
+margin-left:auto;
+margin-right:auto;
+}
+#content{
+height:200;
+width:500px;
+background-color:red;
+}
+
+</style>
+<script>
+	$(document).ready(function(){
+    		$("#dropdown").change(function() {
+
+        		var s = $(this).val();
+		
+        	if(s === "hide()") {
+           		$("#content").hide(2000);
+        		} 
+		else if(s === "show()") {
+            		$("#content").show(2000);
+        		}
+		else if(s == "toggle()") {
+			$("#content").toggle(2000);
+			}
+		else if(s == "slideUp()") {
+			$("#content").slideUp(2000);
+			}
+		else if(s == "slideDown()") {
+			$("#content").slideDown(2000);
+			}
+		else if(s == "slideToggle()") {
+ 			$("#content").slideToggle(2000);
+			}
+		else if(s == "fadeIn()") {
+			$("#content").fadeIn(2000);
+			}
+		else if(s == "fadeOut()") {
+			$("#content").fadeOut(2000);
+			}
+		else if(s == "fadeToggle()") {
+			$("#content").fadeToggle(2000);
+			}
+		else if(s == "fadeTo()") {
+			$("#content").fadeTo(2000,0.3);
+			}
+		else if(s == "animate()") {
+			for(var i=0;i<5;i++){
+			$("#content").animate({width:"50px",height:"20px"});
+			$("#content").animate({width:"500px",height:"200px"});
+			}
+			}
+	
+    });
+});
+
+</script>
+</head>
+<body>
+    
+	<div id="main-div">
+		<div id="content">
+		</div>
+		Choose css class : <select id="dropdown">
+					<option>hide()</option>
+					<option>show()</option>
+					<option>toggle()</option>
+					<option>slideUp()</option>
+					<option>slideDown()</option>
+					<option>slideToggle()</option>
+					<option>fadeIn()</option>
+					<option>fadeOut()</option>
+					<option>fadeToggle()</option>
+					<option>fadeTo()</option>
+					<option>animate()</option>
+	</div>
+
+</body>
+</html>

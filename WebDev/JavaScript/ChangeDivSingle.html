@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Assignment 1 - Mouseover event</title>
+  </head>
+  <body>
+    <div
+      id="changecolor"
+      style="
+        background-color: red;
+        color: white;
+        width: 300px;
+        height: 300px;
+        margin-left: 35vw;
+        margin-top: 10vh;
+      "
+      onmouseover="setColor()"
+      onmouseout="resetColor()"
+    >
+      <center>This is to show how onmouseover and onmouseout works</center>
+    </div>
+
+    <script>
+      function setColor() {
+        var v = document.getElementById("changecolor");
+        v.style.backgroundColor = "yellow";
+        v.style.color = "blue";
+      }
+
+      function resetColor() {
+        var v = document.getElementById("changecolor");
+        v.style.backgroundColor = "red";
+        v.style.color = "black";
+      }
+    </script>
+  </body>
+</html>

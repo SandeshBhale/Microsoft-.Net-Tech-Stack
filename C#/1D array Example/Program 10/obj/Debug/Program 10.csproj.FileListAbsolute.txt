@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input 5 int in an array and display that (1D array)\Program 10\bin\Debug\Program 10.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input 5 int in an array and display that (1D array)\Program 10\bin\Debug\Program 10.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input 5 int in an array and display that (1D array)\Program 10\bin\Debug\Program 10.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input 5 int in an array and display that (1D array)\Program 10\obj\Debug\Program 10.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input 5 int in an array and display that (1D array)\Program 10\obj\Debug\Program 10.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input 5 int in an array and display that (1D array)\Program 10\obj\Debug\Program 10.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input 5 int in an array and display that (1D array)\Program 10\obj\Debug\Program 10.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input 5 int in an array and display that (1D array)\Program 10\obj\Debug\Program 10.pdb

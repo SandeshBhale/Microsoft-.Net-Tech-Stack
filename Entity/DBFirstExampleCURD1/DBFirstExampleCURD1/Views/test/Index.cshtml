@@ -1,0 +1,60 @@
+﻿@model IEnumerable<DBFirstExampleCURD1.Models.Emp>  
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+
+    <h2>Curd Operations Example</h2>
+    <h4>Search by Name and Department</h4>
+    
+    <table border="1">
+
+        <tr>
+            <td colspan="3">
+                @using(Html.BeginForm("searchByName","test",FormMethod.Post))
+                {
+                @:Search By Name :
+                <input type="text" name="EName" />
+                <input type="submit" value="search"/>
+                }
+            </td>
+            <td colspan="2">
+                @using(Html.BeginForm("searchByDept","test",FormMethod.Post))
+                {
+                @:Select Dept :
+                @Html.DropDownList("Dept","Select Option")
+                <input type="submit" value="search"/>
+                }
+            </td>
+        </tr>
+
+        <tr>
+            <th>@Html.DisplayNameFor(p=>p.EmpId)</th>
+            <th>@Html.DisplayNameFor(p=>p.EmpName)</th>
+            <th>@Html.DisplayNameFor(p => p.Mob)</th>
+            <th>@Html.DisplayNameFor(p=>p.Dept.DeptName) </th>
+            <th>@Html.DisplayNameFor(p=>p.Area.AreaName)</th>
+        </tr>
+
+        @foreach(var temp in Model)
+            {
+                <tr>
+                    <td>@temp.EmpId</td>
+                    <td>@temp.EmpName</td>
+                    <td>@temp.Mob</td>
+                    <td>@temp.Dept.DeptName</td>
+                    <td>@temp.Area.AreaName</td>
+                </tr>
+            }
+    </table>
+
+</body>
+</html>

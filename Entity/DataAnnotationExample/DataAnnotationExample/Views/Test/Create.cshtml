@@ -1,0 +1,74 @@
+﻿@model DataAnnotationExample.Models.Customer
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="~/Scripts/jquery-3.4.1.js"></script>
+
+    <div>
+        @using (Html.BeginForm())
+        {
+            <div>
+                @Html.DisplayNameFor(p=>p.CustId)
+                @Html.EditorFor(p => p.CustId)
+                @Html.ValidationMessageFor(p => p.CustId)
+            </div>
+            <div>
+                @Html.DisplayNameFor(p=>p.CustName)
+                @Html.EditorFor(p => p.CustName)
+                @Html.ValidationMessageFor(p=>p.CustName)
+            </div>
+
+            <div>
+                <label>Customer Address :</label>
+                @Html.EditorFor(p => p.Address)
+                @Html.ValidationMessageFor(p=>p.Address)
+            </div>
+
+            <div>
+                <label>Email Id :</label>
+                @Html.EditorFor(p => p.EmaiId)
+                @Html.ValidationMessageFor(p=>p.EmaiId)
+            </div>
+
+            <div>
+                <label>Mobile No :</label>
+                @Html.EditorFor(p => p.MobNo)
+                @Html.ValidationMessageFor(p=>p.MobNo)
+            </div>
+
+            <div>
+                <label>Credit Limit :</label>
+                @Html.EditorFor(p => p.CreditLimit)
+                @Html.ValidationMessageFor(p=>p.CreditLimit)
+            </div>
+
+            <div>
+                <label>Password :</label>
+                @Html.EditorFor(p => p.Pass)
+                @Html.ValidationMessageFor(p=>p.Pass)
+            </div>
+
+            <div>
+                <label>Conference Password :</label>
+                @Html.EditorFor(p => p.ConfPass)
+                @Html.ValidationMessageFor(p=>p.ConfPass)
+            </div>
+
+            <input type="submit" value="Submit" />
+        }
+    </div>
+
+</body>
+</html>

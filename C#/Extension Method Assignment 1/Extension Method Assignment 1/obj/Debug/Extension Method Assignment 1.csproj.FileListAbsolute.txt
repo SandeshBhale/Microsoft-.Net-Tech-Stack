@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Extension Method Assignment 1\Extension Method Assignment 1\obj\Debug\Extension Method Assignment 1.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Extension Method Assignment 1\Extension Method Assignment 1\obj\Debug\Extension Method Assignment 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Extension Method Assignment 1\Extension Method Assignment 1\obj\Debug\Extension Method Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Extension Method Assignment 1\Extension Method Assignment 1\bin\Debug\Extension Method Assignment 1.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Extension Method Assignment 1\Extension Method Assignment 1\bin\Debug\Extension Method Assignment 1.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Extension Method Assignment 1\Extension Method Assignment 1\bin\Debug\Extension Method Assignment 1.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Extension Method Assignment 1\Extension Method Assignment 1\obj\Debug\Extension Method Assignment 1.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Extension Method Assignment 1\Extension Method Assignment 1\obj\Debug\Extension Method Assignment 1.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate annonymous method example", "Delegate annonymous method example\Delegate annonymous method example.csproj", "{C337DBBA-F62F-49AE-A329-D40108D1576A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C337DBBA-F62F-49AE-A329-D40108D1576A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C337DBBA-F62F-49AE-A329-D40108D1576A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C337DBBA-F62F-49AE-A329-D40108D1576A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C337DBBA-F62F-49AE-A329-D40108D1576A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DCD5E92-37BA-41A6-A309-79F3211DF94D}
+	EndGlobalSection
+EndGlobal

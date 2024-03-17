@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Dynamic initialization of object\Dynamic initialization of object\bin\Debug\Dynamic initialization of object.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Dynamic initialization of object\Dynamic initialization of object\bin\Debug\Dynamic initialization of object.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Dynamic initialization of object\Dynamic initialization of object\bin\Debug\Dynamic initialization of object.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Dynamic initialization of object\Dynamic initialization of object\obj\Debug\Dynamic initialization of object.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Dynamic initialization of object\Dynamic initialization of object\obj\Debug\Dynamic initialization of object.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Dynamic initialization of object\Dynamic initialization of object\obj\Debug\Dynamic initialization of object.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Dynamic initialization of object\Dynamic initialization of object\obj\Debug\Dynamic initialization of object.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Dynamic initialization of object\Dynamic initialization of object\obj\Debug\Dynamic initialization of object.pdb

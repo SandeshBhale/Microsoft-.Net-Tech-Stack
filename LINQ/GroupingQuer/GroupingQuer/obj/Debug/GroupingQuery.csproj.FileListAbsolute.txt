@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\GroupingQuer\GroupingQuer\bin\Debug\GroupingQuer.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\GroupingQuer\GroupingQuer\bin\Debug\GroupingQuer.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\GroupingQuer\GroupingQuer\bin\Debug\GroupingQuer.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\GroupingQuer\GroupingQuer\obj\Debug\GroupingQuery.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\GroupingQuer\GroupingQuer\obj\Debug\GroupingQuery.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\GroupingQuer\GroupingQuer\obj\Debug\GroupingQuery.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\GroupingQuer\GroupingQuer\obj\Debug\GroupingQuer.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\GroupingQuer\GroupingQuer\obj\Debug\GroupingQuer.pdb

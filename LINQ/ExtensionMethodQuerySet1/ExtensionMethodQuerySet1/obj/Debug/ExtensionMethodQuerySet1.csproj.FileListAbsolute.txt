@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\ExtensionMethodQuerySet1\ExtensionMethodQuerySet1\bin\Debug\ExtensionMethodQuerySet1.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\ExtensionMethodQuerySet1\ExtensionMethodQuerySet1\bin\Debug\ExtensionMethodQuerySet1.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\ExtensionMethodQuerySet1\ExtensionMethodQuerySet1\bin\Debug\ExtensionMethodQuerySet1.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\ExtensionMethodQuerySet1\ExtensionMethodQuerySet1\obj\Debug\ExtensionMethodQuerySet1.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\ExtensionMethodQuerySet1\ExtensionMethodQuerySet1\obj\Debug\ExtensionMethodQuerySet1.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\ExtensionMethodQuerySet1\ExtensionMethodQuerySet1\obj\Debug\ExtensionMethodQuerySet1.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\ExtensionMethodQuerySet1\ExtensionMethodQuerySet1\obj\Debug\ExtensionMethodQuerySet1.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\ExtensionMethodQuerySet1\ExtensionMethodQuerySet1\obj\Debug\ExtensionMethodQuerySet1.pdb

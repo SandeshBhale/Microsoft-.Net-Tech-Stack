@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>Jquery Assignment 1</title>
+<script src="C:\Users\SANDESH\Desktop\RI-Tech\Git-webdev\Web Devolopement\jQuery\Jquery.js"></script>
+<script>
+    $(document).ready(function(){
+	
+	$("#select1").change(function(){
+	var s = $("#select1").val();
+	if(s=="+"){
+		var a = parseInt($("#tb1").val());
+		var b = parseInt($("#tb2").val());
+		var rs = a+b;
+		$("#tb3").val(rs);
+			}
+	else if(s=="-"){
+		var a = parseInt($("#tb1").val());
+		var b = parseInt($("#tb2").val());
+		var rs = a-b;
+		$("#tb3").val(rs);
+			}
+	else if(s=="*"){
+		var a = parseInt($("#tb1").val());
+		var b = parseInt($("#tb2").val());
+		var rs = a*b;
+		$("#tb3").val(rs);
+			}
+	else if(s=="/"){
+		var a = parseInt($("#tb1").val());
+		var b = parseInt($("#tb2").val());
+		var rs = a/b;
+		$("#tb3").val(rs);
+			}
+
+	});
+
+    });
+</script>
+</head>
+<body>
+    
+	Enter value : <input type="text" id="tb1"><br><br>
+	Enter value : <input type="text" id="tb2"><br><br>
+	Result : <input type="text" id="tb3"><br><br>
+	Operator : <select id="select1">
+			<option>+</option>
+			<option>-</option>
+			<option>*</option>
+			<option>/</option>
+		</select>
+
+</body>
+</html>

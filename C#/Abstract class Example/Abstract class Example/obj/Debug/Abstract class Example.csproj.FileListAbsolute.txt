@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Abstract class Example\Abstract class Example\bin\Debug\Abstract class Example.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Abstract class Example\Abstract class Example\bin\Debug\Abstract class Example.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Abstract class Example\Abstract class Example\bin\Debug\Abstract class Example.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Abstract class Example\Abstract class Example\obj\Debug\Abstract class Example.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Abstract class Example\Abstract class Example\obj\Debug\Abstract class Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Abstract class Example\Abstract class Example\obj\Debug\Abstract class Example.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Abstract class Example\Abstract class Example\obj\Debug\Abstract class Example.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Abstract class Example\Abstract class Example\obj\Debug\Abstract class Example.pdb

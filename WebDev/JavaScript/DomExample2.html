@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DOM Example 2</title>
+  </head>
+  <body>
+    Enter Number : <input type="textbox" id="tb1" /><br /><br />
+    Enter Number : <input type="textbox" id="tb2" /><br /><br />
+    Operator :
+    <select name="" id="">
+      <option value="add" id="add">+</option>
+      <option value="sub" id="sub">-</option>
+      <option value="mul" id="mul">+</option>
+      <option value="div" id="div">/</option></select
+    ><br /><br />
+    Result : <input type="textbox" id="tb3" /><br /><br />
+    <button id="btn" onclick="add()">OK</button>
+
+    <script>
+      function add() {
+        var a = parseInt(document.getElementById("tb1").value);
+        var b = parseInt(document.getElementById("tb2").value);
+        var c = a + b;
+        document.getElementById("tb3").value = c;
+      }
+
+      function sub() {
+        var a = parseInt(document.getElementById("tb1").value);
+        var b = parseInt(document.getElementById("tb2").value);
+        var c = a - b;
+        document.getElementById("tb3").value = c;
+      }
+
+      function mul() {
+        var a = parseInt(document.getElementById("tb1").value);
+        var b = parseInt(document.getElementById("tb2").value);
+        var c = a * b;
+        document.getElementById("tb3").value = c;
+      }    
+
+      function div() {
+        var a = parseInt(document.getElementById("tb1").value);
+        var b = parseInt(document.getElementById("tb2").value);
+        document.getElementById("tb3").value = c;
+      }
+    </script>
+  </body>
+</html>

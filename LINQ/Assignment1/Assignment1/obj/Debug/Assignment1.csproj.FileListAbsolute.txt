@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\Assignment1\Assignment1\obj\Debug\Assignment1.pdb

@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Arrey of object 1\Program 15\bin\Debug\Program 15.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Arrey of object 1\Program 15\bin\Debug\Program 15.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Arrey of object 1\Program 15\bin\Debug\Program 15.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Arrey of object 1\Program 15\obj\Debug\Program 15.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Arrey of object 1\Program 15\obj\Debug\Program 15.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Arrey of object 1\Program 15\obj\Debug\Program 15.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Arrey of object 1\Program 15\obj\Debug\Program 15.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Arrey of object 1\Program 15\obj\Debug\Program 15.pdb

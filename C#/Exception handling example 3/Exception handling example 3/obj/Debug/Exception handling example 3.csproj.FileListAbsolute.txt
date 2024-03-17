@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Exception handling example 3\Exception handling example 3\bin\Debug\Exception handling example 3.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Exception handling example 3\Exception handling example 3\bin\Debug\Exception handling example 3.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Exception handling example 3\Exception handling example 3\bin\Debug\Exception handling example 3.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Exception handling example 3\Exception handling example 3\obj\Debug\Exception handling example 3.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Exception handling example 3\Exception handling example 3\obj\Debug\Exception handling example 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Exception handling example 3\Exception handling example 3\obj\Debug\Exception handling example 3.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Exception handling example 3\Exception handling example 3\obj\Debug\Exception handling example 3.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Exception handling example 3\Exception handling example 3\obj\Debug\Exception handling example 3.pdb

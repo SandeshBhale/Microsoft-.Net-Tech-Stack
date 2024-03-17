@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Interface Example Advanced\Interface Example Advanced\bin\Debug\Interface Example Advanced.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Interface Example Advanced\Interface Example Advanced\bin\Debug\Interface Example Advanced.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Interface Example Advanced\Interface Example Advanced\bin\Debug\Interface Example Advanced.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Interface Example Advanced\Interface Example Advanced\obj\Debug\Interface Example Advanced.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Interface Example Advanced\Interface Example Advanced\obj\Debug\Interface Example Advanced.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Interface Example Advanced\Interface Example Advanced\obj\Debug\Interface Example Advanced.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Interface Example Advanced\Interface Example Advanced\obj\Debug\Interface Example Advanced.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Interface Example Advanced\Interface Example Advanced\obj\Debug\Interface Example Advanced.pdb

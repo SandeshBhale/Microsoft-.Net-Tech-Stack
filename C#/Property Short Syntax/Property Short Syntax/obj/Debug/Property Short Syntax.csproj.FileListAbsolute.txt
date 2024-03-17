@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Property Short Syntax\Property Short Syntax\bin\Debug\Property Short Syntax.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Property Short Syntax\Property Short Syntax\bin\Debug\Property Short Syntax.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Property Short Syntax\Property Short Syntax\bin\Debug\Property Short Syntax.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Property Short Syntax\Property Short Syntax\obj\Debug\Property Short Syntax.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Property Short Syntax\Property Short Syntax\obj\Debug\Property Short Syntax.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Property Short Syntax\Property Short Syntax\obj\Debug\Property Short Syntax.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Property Short Syntax\Property Short Syntax\obj\Debug\Property Short Syntax.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Property Short Syntax\Property Short Syntax\obj\Debug\Property Short Syntax.pdb

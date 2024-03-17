@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\FilterationQuery\FilterationQuery\bin\Debug\FilterationQuery.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\FilterationQuery\FilterationQuery\bin\Debug\FilterationQuery.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\FilterationQuery\FilterationQuery\bin\Debug\FilterationQuery.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\FilterationQuery\FilterationQuery\obj\Debug\FilterationQuery.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\FilterationQuery\FilterationQuery\obj\Debug\FilterationQuery.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\FilterationQuery\FilterationQuery\obj\Debug\FilterationQuery.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\FilterationQuery\FilterationQuery\obj\Debug\FilterationQuery.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\FilterationQuery\FilterationQuery\obj\Debug\FilterationQuery.pdb

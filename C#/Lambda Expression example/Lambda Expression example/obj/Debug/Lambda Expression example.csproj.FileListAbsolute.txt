@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Lambda Expression example\Lambda Expression example\bin\Debug\Lambda Expression example.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Lambda Expression example\Lambda Expression example\bin\Debug\Lambda Expression example.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Lambda Expression example\Lambda Expression example\bin\Debug\Lambda Expression example.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Lambda Expression example\Lambda Expression example\obj\Debug\Lambda Expression example.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Lambda Expression example\Lambda Expression example\obj\Debug\Lambda Expression example.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Lambda Expression example\Lambda Expression example\obj\Debug\Lambda Expression example.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Lambda Expression example\Lambda Expression example\obj\Debug\Lambda Expression example.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Lambda Expression example\Lambda Expression example\obj\Debug\Lambda Expression example.pdb

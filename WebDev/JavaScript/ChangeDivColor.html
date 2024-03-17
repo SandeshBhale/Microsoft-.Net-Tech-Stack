@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Change Div Color</title>
+  </head>
+  <body>
+    <div style="margin-left: 40vw;margin-top: 10vh;">
+      <div
+        style="background-color: yellow; width: 200px; height: 30px"
+        onmouseover="setColor(this)"
+        onmouseout="resetColor(this)"
+      >
+        Home
+      </div>
+      <div
+        style="background-color: yellow; width: 200px; height: 30px"
+        onmouseover="setColor(this)"
+        onmouseout="resetColor(this)"
+      >
+        About
+      </div>
+      <div
+        style="background-color: yellow; width: 200px; height: 30px"
+        onmouseover="setColor(this)"
+        onmouseout="resetColor(this)"
+      >
+        Contact
+      </div>
+      <div
+        style="background-color: yellow; width: 200px; height: 30px"
+        onmouseover="setColor(this)"
+        onmouseout="resetColor(this)"
+      >
+        Services
+      </div>
+    </div>
+
+    <script>
+      function setColor(tag) {
+        tag.style.backgroundColor = "red";
+      }
+      function resetColor(tag) {
+        tag.style.backgroundColor = "yellow";
+      }
+    </script>
+  </body>
+</html>

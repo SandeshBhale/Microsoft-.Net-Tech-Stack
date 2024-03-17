@@ -1,0 +1,16 @@
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Take 3by3 matrix form user and display in matrix form (2d array)\Program 13\bin\Debug\Program 13.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Take 3by3 matrix form user and display in matrix form (2d array)\Program 13\bin\Debug\Program 13.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Take 3by3 matrix form user and display in matrix form (2d array)\Program 13\bin\Debug\Program 13.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Take 3by3 matrix form user and display in matrix form (2d array)\Program 13\obj\Debug\Program 13.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Take 3by3 matrix form user and display in matrix form (2d array)\Program 13\obj\Debug\Program 13.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Take 3by3 matrix form user and display in matrix form (2d array)\Program 13\obj\Debug\Program 13.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Take 3by3 matrix form user and display in matrix form (2d array)\Program 13\obj\Debug\Program 13.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Take 3by3 matrix form user and display in matrix form (2d array)\Program 13\obj\Debug\Program 13.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Take 3by3 matrix form user and display in matrix form (2d array)\Program 13\bin\Debug\Program 13.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Take 3by3 matrix form user and display in matrix form (2d array)\Program 13\bin\Debug\Program 13.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Take 3by3 matrix form user and display in matrix form (2d array)\Program 13\bin\Debug\Program 13.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Take 3by3 matrix form user and display in matrix form (2d array)\Program 13\obj\Debug\Program 13.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Take 3by3 matrix form user and display in matrix form (2d array)\Program 13\obj\Debug\Program 13.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Take 3by3 matrix form user and display in matrix form (2d array)\Program 13\obj\Debug\Program 13.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Take 3by3 matrix form user and display in matrix form (2d array)\Program 13\obj\Debug\Program 13.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Take 3by3 matrix form user and display in matrix form (2d array)\Program 13\obj\Debug\Program 13.pdb

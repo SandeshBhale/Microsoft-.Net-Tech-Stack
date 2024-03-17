@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Constructer sequence in inheritance\Constructer sequence in inheritance\bin\Debug\Constructer sequence in inheritance.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Constructer sequence in inheritance\Constructer sequence in inheritance\bin\Debug\Constructer sequence in inheritance.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Constructer sequence in inheritance\Constructer sequence in inheritance\bin\Debug\Constructer sequence in inheritance.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Constructer sequence in inheritance\Constructer sequence in inheritance\obj\Debug\Constructer sequence in inheritance.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Constructer sequence in inheritance\Constructer sequence in inheritance\obj\Debug\Constructer sequence in inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Constructer sequence in inheritance\Constructer sequence in inheritance\obj\Debug\Constructer sequence in inheritance.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Constructer sequence in inheritance\Constructer sequence in inheritance\obj\Debug\Constructer sequence in inheritance.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Constructer sequence in inheritance\Constructer sequence in inheritance\obj\Debug\Constructer sequence in inheritance.pdb

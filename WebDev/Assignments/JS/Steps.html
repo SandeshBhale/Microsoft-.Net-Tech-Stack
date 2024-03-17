@@ -1,0 +1,85 @@
+<html>
+  <head>
+	<title>Square assignment</title>
+	<style>
+	
+	#main-div{
+				width:100%;		
+			}
+
+	#another-div{
+				width:20%;
+				margin-left:auto;
+				margin-right:auto;
+				margin-top:20%;
+				border:solid;
+				border-radius:2px;
+				border-color:black;
+				align-items:center;
+				justify-content:center;
+				padding:1.5rem;
+				font-size:1rem;
+			}
+	
+	#step1{
+			width:25%;
+		}
+	#step2{
+			width:50%;
+		}
+	#step3{
+			width:75%;
+		}
+	#step4{
+			width:100%;
+		}
+	#btn{
+				width:100%;
+			}
+
+	</style>
+  </head>
+  <body>
+	<div id="main-div">
+		<div id="another-div">
+	
+			<div id="step1">1</div>
+			<div id="step2">2</div>
+			<div id="step3">3</div>
+			<div id="step4">4</div>
+			<br><br>
+		
+			Select color : <input id="color" type="color"><br><br>
+			Enter step : <input id="input-box" type="text"><br><br>
+			<input type="button" id="btn" value="OK" onclick="display()">
+
+		</div>
+	</div>
+    <script>
+	
+	function display(){
+	var a = parseInt(document.getElementById("input-box").value);
+	var c = document.getElementById("color").value;
+
+	if(a==1){
+		document.getElementById("step1").style.backgroundColor = c;	
+	}
+	
+	else if(a==2){
+		document.getElementById("step2").style.backgroundColor = c;
+	}
+	else if(a==3){
+		document.getElementById("step3").style.backgroundColor = c;
+	}
+	else if(a==4){
+		document.getElementById("step4").style.backgroundColor = c;
+	}
+	else{
+		alert("Invalid input");
+	}
+
+	}	
+
+    </script>
+  </body>
+</html>

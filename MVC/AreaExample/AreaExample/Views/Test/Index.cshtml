@@ -1,0 +1,20 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        @Html.ActionLink("Goto Admin index", "Index", "Admin", new { area = "Admin" },null) <br />
+        @Html.ActionLink("Goto HR index", "Index", "HR", new { area = "HR" },null)<br />
+        @Html.ActionLink("Goto Manager index", "Index", "Manager",new {area ="Manager"},null)<br />
+    </div>
+</body>
+</html>

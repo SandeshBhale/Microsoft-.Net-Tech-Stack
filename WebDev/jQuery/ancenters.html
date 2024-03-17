@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>Jquery Practice Code</title>
+<script src="C:\Users\SANDESH\Desktop\RI-Tech\Git-webdev\Web Devolopement\jQuery\Jquery.js"></script>
+<script>
+    $(document).ready(function(){
+        $("p").parent().css("font-size", "30px");
+	$("#sp1").parent().css("background-color","pink");
+        $("#sp1").parentsUntil(".dv1").css("background-color", "red");
+    });
+</script>
+</head>
+<body>
+    <div class="dv1">
+	<div class="dv-1">
+        	<h1>Heading 1</h1>
+        	<p>Para 1</p>
+        	<span id="sp1">This is span 1</span>
+	</div>
+	<div class="dv-2"
+		<h2>Heading 2</h2>
+		<p>Para 1</p>
+        	<span>This is span 2</span>
+	</div>
+    </div>
+</body>
+</html>

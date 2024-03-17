@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Extension method example\Extension method example\bin\Debug\Extension method example.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Extension method example\Extension method example\bin\Debug\Extension method example.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Extension method example\Extension method example\bin\Debug\Extension method example.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Extension method example\Extension method example\obj\Debug\Extension method example.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Extension method example\Extension method example\obj\Debug\Extension method example.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Extension method example\Extension method example\obj\Debug\Extension method example.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Extension method example\Extension method example\obj\Debug\Extension method example.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\Extension method example\Extension method example\obj\Debug\Extension method example.pdb

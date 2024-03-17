@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\C#\ExamPractice\ExamPractice\bin\Debug\ExamPractice.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\C#\ExamPractice\ExamPractice\bin\Debug\ExamPractice.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\ExamPractice\ExamPractice\bin\Debug\ExamPractice.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\C#\ExamPractice\ExamPractice\obj\Debug\ExamPractice.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\ExamPractice\ExamPractice\obj\Debug\ExamPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\ExamPractice\ExamPractice\obj\Debug\ExamPractice.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\ExamPractice\ExamPractice\obj\Debug\ExamPractice.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\ExamPractice\ExamPractice\obj\Debug\ExamPractice.pdb

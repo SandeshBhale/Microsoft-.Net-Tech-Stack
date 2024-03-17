@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input cityname and amount calculate and display discount amount (switch)\Program 9\bin\Debug\Program 9.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input cityname and amount calculate and display discount amount (switch)\Program 9\bin\Debug\Program 9.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input cityname and amount calculate and display discount amount (switch)\Program 9\bin\Debug\Program 9.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input cityname and amount calculate and display discount amount (switch)\Program 9\obj\Debug\Program 9.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input cityname and amount calculate and display discount amount (switch)\Program 9\obj\Debug\Program 9.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input cityname and amount calculate and display discount amount (switch)\Program 9\obj\Debug\Program 9.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input cityname and amount calculate and display discount amount (switch)\Program 9\obj\Debug\Program 9.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input cityname and amount calculate and display discount amount (switch)\Program 9\obj\Debug\Program 9.pdb

@@ -1,0 +1,36 @@
+﻿@model DBFirstExampleCURD2.Models.Emp
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+</head>
+<body>
+
+    @using (Html.BeginForm("Create", "Test", FormMethod.Post))
+            {
+                <label>EmpName :</label>
+                @Html.EditorFor(p=>p.EmpName)
+                <br /><br />
+
+                <label>Mob : </label>
+                @Html.EditorFor(p=>p.Mob)
+                <br /><br />
+
+                <label>DeptName :</label>
+                @Html.DropDownList("DeptId","DeptName")
+                <br /><br />
+
+                <label>Area Name :</label>
+                @Html.DropDownList("AreaId","AreaName")
+                <br /><br />
+
+                <input type="submit" value="Submit" />
+            }
+</body>
+</html>

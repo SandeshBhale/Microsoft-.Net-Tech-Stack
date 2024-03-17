@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Read Session Data</title>
+  </head>
+  <body>
+    Name : <input type="text" id="nm" name="name" /><br />
+    Email : <input type="text" id="em" name="email" /><br />
+    Mobile : <input type="text" id="mob" name="mobile" /><br />
+    <input type="button" onclick="readData()" value="Read Data" />
+
+    <script>
+      function readData() {
+        document.getElementById("nm").value = sessionStorage.nm;
+        document.getElementById("em").value = sessionStorage.em;
+        document.getElementById("mob").value = sessionStorage.mob;
+      }
+    </script>
+  </body>
+</html>

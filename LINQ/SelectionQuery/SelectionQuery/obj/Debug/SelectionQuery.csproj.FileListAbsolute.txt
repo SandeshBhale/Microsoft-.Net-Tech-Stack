@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\SelectionQuery\SelectionQuery\bin\Debug\SelectionQuery.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\SelectionQuery\SelectionQuery\bin\Debug\SelectionQuery.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\SelectionQuery\SelectionQuery\bin\Debug\SelectionQuery.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\SelectionQuery\SelectionQuery\obj\Debug\SelectionQuery.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\SelectionQuery\SelectionQuery\obj\Debug\SelectionQuery.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\SelectionQuery\SelectionQuery\obj\Debug\SelectionQuery.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\SelectionQuery\SelectionQuery\obj\Debug\SelectionQuery.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git-LINQ\LINQ\SelectionQuery\SelectionQuery\obj\Debug\SelectionQuery.pdb

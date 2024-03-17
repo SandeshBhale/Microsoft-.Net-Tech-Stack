@@ -1,0 +1,41 @@
+﻿@model IEnumerable<DBFirstExampleCURD2.Models.Emp>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    
+    @Html.ActionLink("Create New Record","Create")
+
+
+    <table border="1">
+        <tr>
+            <th>@Html.DisplayNameFor(p => p.EmpId)</th>
+            <th>@Html.DisplayNameFor(p => p.EmpName)</th>
+            <th>@Html.DisplayNameFor(p => p.Mob)</th>
+            <th>@Html.DisplayNameFor(p=>p.Dept.DeptName)</th>
+            <th>@Html.DisplayNameFor(p=>p.Area.AreaName)</th>
+        </tr>
+
+        @foreach (var temp in Model)
+        {
+            <tr>
+                <td>@temp.EmpId</td>
+                <td>@temp.EmpName</td>
+                <td>@temp.Mob</td>
+                <td>@Html.DisplayFor(p=>temp.Dept.DeptName)</td>
+                <td>@Html.DisplayFor(p=>temp.Area.AreaName)</td>
+                <td>@Html.ActionLink("Update", "Update",new {id = temp.EmpId})</td>
+                <td>@Html.ActionLink("Delete", "Delete",new {id = temp.EmpId})</td>
+            </tr>
+        }
+    </table>
+</body>
+</html>

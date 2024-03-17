@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Assignment - collection\Assignment - collection\bin\Debug\Assignment - collection.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Assignment - collection\Assignment - collection\bin\Debug\Assignment - collection.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Assignment - collection\Assignment - collection\bin\Debug\Assignment - collection.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Assignment - collection\Assignment - collection\obj\Debug\Assignment - collection.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Assignment - collection\Assignment - collection\obj\Debug\Assignment - collection.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Assignment - collection\Assignment - collection\obj\Debug\Assignment - collection.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Assignment - collection\Assignment - collection\obj\Debug\Assignment - collection.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Assignment - collection\Assignment - collection\obj\Debug\Assignment - collection.pdb

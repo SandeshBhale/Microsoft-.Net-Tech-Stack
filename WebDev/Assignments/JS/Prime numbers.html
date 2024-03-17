@@ -1,0 +1,70 @@
+<html>
+  <head>
+	<title>Exam 1 - Prime number</title>
+	<style>
+		#main-div{
+				width:100%;		
+			}
+		#another-div{
+				width:20%;
+				margin-left:auto;
+				margin-right:auto;
+				margin-top:20%;
+				border:solid;
+				border-radius:2px;
+				border-color:black;
+				align-items:center;
+				justify-content:center;
+				padding:1.5rem;
+				font-size:1rem;
+			}
+		#btn{
+				font-size:1rem;
+				width:100%;
+			}
+		#txt1,#sp{
+			font-size:1rem;
+			}
+		h2{
+			margin-top:-5%;
+			}
+
+	</style>
+  </head>
+  <body>
+	<div id="main-div">
+		<div id="another-div">
+		<h2>Prime Number Assignment</h2>
+    		Enter No: <input type="text" id="txt1" /><br />
+    		Result:<span id="sp"></span><br><br>
+   		<input id="btn" type="button" value="Calculate" onclick="calculate()" />
+		</div>
+	</div>
+    <script>
+      function calculate() {
+        var a = parseInt(document.getElementById("txt1").value);
+
+        var count = 0;
+        var sum = 0;
+        var dig = 0;
+	while(a>0){
+
+	dig = a%10;
+        for (let i = 1; i <= dig; i++) {
+          if (dig % i == 0) {
+            count++;
+          }
+        }
+	//if(dig == 1)
+	//	count = 2;
+	if (count == 2) {
+            sum = sum + dig;
+          }
+	count = 0;
+	a = parseInt(a/10);
+        document.getElementById("sp").innerHTML = sum;
+	}
+      }
+    </script>
+  </body>
+</html>

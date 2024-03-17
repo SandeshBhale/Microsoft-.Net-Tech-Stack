@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git-Entity\\Entity\\JoinExampleDbFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7423D466-2F96-4937-927B-43243BC2A1B1}|JoinExampleDbFirst\\JoinExampleDbFirst.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git-entity\\entity\\joinexampledbfirst\\joinexampledbfirst\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7423D466-2F96-4937-927B-43243BC2A1B1}|JoinExampleDbFirst\\JoinExampleDbFirst.csproj|solutionrelative:joinexampledbfirst\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7423D466-2F96-4937-927B-43243BC2A1B1}|JoinExampleDbFirst\\JoinExampleDbFirst.csproj|C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git-Entity\\Entity\\JoinExampleDbFirst\\joinexampledbfirst\\models\\eadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7423D466-2F96-4937-927B-43243BC2A1B1}|JoinExampleDbFirst\\JoinExampleDbFirst.csproj|solutionrelative:joinexampledbfirst\\models\\eadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7423D466-2F96-4937-927B-43243BC2A1B1}|JoinExampleDbFirst\\JoinExampleDbFirst.csproj|C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git-Entity\\Entity\\JoinExampleDbFirst\\joinexampledbfirst\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7423D466-2F96-4937-927B-43243BC2A1B1}|JoinExampleDbFirst\\JoinExampleDbFirst.csproj|solutionrelative:joinexampledbfirst\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7423D466-2F96-4937-927B-43243BC2A1B1}|JoinExampleDbFirst\\JoinExampleDbFirst.csproj|C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git-Entity\\Entity\\JoinExampleDbFirst\\joinexampledbfirst\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{7423D466-2F96-4937-927B-43243BC2A1B1}|JoinExampleDbFirst\\JoinExampleDbFirst.csproj|solutionrelative:joinexampledbfirst\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "testController.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git-Entity\\Entity\\JoinExampleDbFirst\\JoinExampleDbFirst\\Controllers\\testController.cs",
+              "RelativeDocumentMoniker": "JoinExampleDbFirst\\Controllers\\testController.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git-Entity\\Entity\\JoinExampleDbFirst\\JoinExampleDbFirst\\Controllers\\testController.cs",
+              "RelativeToolTip": "JoinExampleDbFirst\\Controllers\\testController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T05:33:58.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EADVM.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git-Entity\\Entity\\JoinExampleDbFirst\\JoinExampleDbFirst\\Models\\EADVM.cs",
+              "RelativeDocumentMoniker": "JoinExampleDbFirst\\Models\\EADVM.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git-Entity\\Entity\\JoinExampleDbFirst\\JoinExampleDbFirst\\Models\\EADVM.cs",
+              "RelativeToolTip": "JoinExampleDbFirst\\Models\\EADVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T05:33:53.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git-Entity\\Entity\\JoinExampleDbFirst\\JoinExampleDbFirst\\Views\\test\\Index.cshtml",
+              "RelativeDocumentMoniker": "JoinExampleDbFirst\\Views\\test\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git-Entity\\Entity\\JoinExampleDbFirst\\JoinExampleDbFirst\\Views\\test\\Index.cshtml",
+              "RelativeToolTip": "JoinExampleDbFirst\\Views\\test\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T05:33:45.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git-Entity\\Entity\\JoinExampleDbFirst\\JoinExampleDbFirst\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "JoinExampleDbFirst\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git-Entity\\Entity\\JoinExampleDbFirst\\JoinExampleDbFirst\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "JoinExampleDbFirst\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-03-12T17:16:36.326Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

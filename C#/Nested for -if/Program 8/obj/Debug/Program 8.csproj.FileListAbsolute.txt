@@ -1,0 +1,16 @@
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input number and find count of even and odd number (Nested for -if)\Program 8\bin\Debug\Program 8.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input number and find count of even and odd number (Nested for -if)\Program 8\bin\Debug\Program 8.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input number and find count of even and odd number (Nested for -if)\Program 8\bin\Debug\Program 8.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input number and find count of even and odd number (Nested for -if)\Program 8\obj\Debug\Program 8.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input number and find count of even and odd number (Nested for -if)\Program 8\obj\Debug\Program 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input number and find count of even and odd number (Nested for -if)\Program 8\obj\Debug\Program 8.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input number and find count of even and odd number (Nested for -if)\Program 8\obj\Debug\Program 8.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input number and find count of even and odd number (Nested for -if)\Program 8\obj\Debug\Program 8.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Input number and find count of even and odd number (Nested for -if)\Program 8\bin\Debug\Program 8.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Input number and find count of even and odd number (Nested for -if)\Program 8\bin\Debug\Program 8.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Input number and find count of even and odd number (Nested for -if)\Program 8\bin\Debug\Program 8.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Input number and find count of even and odd number (Nested for -if)\Program 8\obj\Debug\Program 8.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Input number and find count of even and odd number (Nested for -if)\Program 8\obj\Debug\Program 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Input number and find count of even and odd number (Nested for -if)\Program 8\obj\Debug\Program 8.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Input number and find count of even and odd number (Nested for -if)\Program 8\obj\Debug\Program 8.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Input number and find count of even and odd number (Nested for -if)\Program 8\obj\Debug\Program 8.pdb

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DOM Example 1</title>
+  </head>
+
+  <body>
+    <div>
+      Enter first number : <input type="textbox" id="tb1" /><br /><br />
+      Enter Second number : <input type="textbox" id="tb2" /><br /><br />
+    </div>
+    <div>Result : <input type="textbox" id="tb3" /><br /></div>
+    <br /><br />
+
+    <input type="button" id="btn1" value="Add" onclick="add()" />
+    <input type="button" id="btn2" value="Sub" onclick="sub()" />
+
+    <script>
+      function add() {
+        var a = parseInt(document.getElementById("tb1").value);
+        var b = parseInt(document.getElementById("tb2").value);
+        var c = a + b;
+        document.getElementById("tb3").value = c;
+      }
+
+      function sub() {
+        var a = parseInt(document.getElementById("tb1").value);
+        var b = parseInt(document.getElementById("tb2").value);
+        var c = a - b;
+        document.getElementById("tb3").value = c;
+      }
+    </script>
+  </body>
+</html>

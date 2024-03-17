@@ -1,0 +1,51 @@
+<html>
+  <head>
+	<title>Square assignment</title>
+	<style>
+	
+	#main-div{
+				width:100%;		
+			}
+		#another-div{
+				width:20%;
+				margin-left:auto;
+				margin-right:auto;
+				margin-top:20%;
+				border:solid;
+				border-radius:2px;
+				border-color:black;
+				align-items:center;
+				justify-content:center;
+				padding:1.5rem;
+				font-size:1rem;
+			}
+
+	</style>
+  </head>
+  <body>
+	<div id="main-div">
+		<div id="another-div">
+	
+			<div id="content" data=10 onclick="calculate(this)">10</div>
+			<div id="content" data="20" onclick="calculate(this)">20</div>
+			<div id="content" data="40" onclick="calculate(this)">40</div>
+			<div id="content" data="12" onclick="calculate(this)">12</div>
+			<div id="content" data="10"onclick="calculate(this)">10</div>
+			<div id="content" data="5" onclick="calculate(this)">5</div>
+			<div id="content" data="4" onclick="calculate(this)">4</div>
+			<div id="content" data="8" onclick="calculate(this)">8</div>
+			<div id="content" data="12" onclick="calculate(this)">12</div>
+
+		</div>
+	</div>
+    <script>
+
+	function calculate(square) {
+            const number = parseInt(square.getAttribute('data'));
+            const calculatedSquare = number * number;
+            square.textContent = calculatedSquare;
+        }
+
+    </script>
+  </body>
+</html>

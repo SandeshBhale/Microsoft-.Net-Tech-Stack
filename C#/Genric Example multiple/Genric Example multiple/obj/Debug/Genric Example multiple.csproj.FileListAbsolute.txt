@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Genric Example multiple\Genric Example multiple\bin\Debug\Genric Example multiple.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Genric Example multiple\Genric Example multiple\bin\Debug\Genric Example multiple.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Genric Example multiple\Genric Example multiple\bin\Debug\Genric Example multiple.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Genric Example multiple\Genric Example multiple\obj\Debug\Genric Example multiple.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Genric Example multiple\Genric Example multiple\obj\Debug\Genric Example multiple.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Genric Example multiple\Genric Example multiple\obj\Debug\Genric Example multiple.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Genric Example multiple\Genric Example multiple\obj\Debug\Genric Example multiple.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Genric Example multiple\Genric Example multiple\obj\Debug\Genric Example multiple.pdb

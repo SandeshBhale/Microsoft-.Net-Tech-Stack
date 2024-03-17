@@ -1,0 +1,16 @@
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input P,C,M,B,E marks and find class depending on percentage (Nested if-else)\Program 5\bin\Debug\Program 5.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input P,C,M,B,E marks and find class depending on percentage (Nested if-else)\Program 5\bin\Debug\Program 5.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input P,C,M,B,E marks and find class depending on percentage (Nested if-else)\Program 5\bin\Debug\Program 5.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input P,C,M,B,E marks and find class depending on percentage (Nested if-else)\Program 5\obj\Debug\Program 5.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input P,C,M,B,E marks and find class depending on percentage (Nested if-else)\Program 5\obj\Debug\Program 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input P,C,M,B,E marks and find class depending on percentage (Nested if-else)\Program 5\obj\Debug\Program 5.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input P,C,M,B,E marks and find class depending on percentage (Nested if-else)\Program 5\obj\Debug\Program 5.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input P,C,M,B,E marks and find class depending on percentage (Nested if-else)\Program 5\obj\Debug\Program 5.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Input P,C,M,B,E marks and find class depending on percentage (Nested if-else)\Program 5\bin\Debug\Program 5.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Input P,C,M,B,E marks and find class depending on percentage (Nested if-else)\Program 5\bin\Debug\Program 5.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Input P,C,M,B,E marks and find class depending on percentage (Nested if-else)\Program 5\bin\Debug\Program 5.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Input P,C,M,B,E marks and find class depending on percentage (Nested if-else)\Program 5\obj\Debug\Program 5.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Input P,C,M,B,E marks and find class depending on percentage (Nested if-else)\Program 5\obj\Debug\Program 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Input P,C,M,B,E marks and find class depending on percentage (Nested if-else)\Program 5\obj\Debug\Program 5.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Input P,C,M,B,E marks and find class depending on percentage (Nested if-else)\Program 5\obj\Debug\Program 5.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Input P,C,M,B,E marks and find class depending on percentage (Nested if-else)\Program 5\obj\Debug\Program 5.pdb

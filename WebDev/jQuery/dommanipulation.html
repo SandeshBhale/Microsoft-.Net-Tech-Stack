@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>Jquery Practice Code</title>
+<script src="C:\Users\SANDESH\Desktop\RI-Tech\Git-webdev\Web Devolopement\jQuery\Jquery.js"></script>
+<script>
+    $(document).ready(function(){
+	
+	$("#dv1").after("<div id='div1.1'>Div after new</div>");
+	$("#dv2").before("<div id='div2.1'>Div below new</div>");
+	$("#dv1").append(":this is presentation for append");
+	$("#dv2").prepend("this is presentation for prepend:");
+	$("#extra").remove();
+	$("h1").wrap("<i><i>");
+	$("<span>call me span</span>").replaceAll("h1");
+
+    });
+</script>
+</head>
+<body>
+    
+	<div id="dv1">Div 1</div>
+	<div id="dv2">Div 2</div>
+	<div id="extra">Extra div</div>
+	<h1>Hello my name is sandesh</h1>	
+
+</body>
+</html>

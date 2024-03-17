@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\C#\WAP for prime\Exam 1\bin\Debug\Exam 1.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\C#\WAP for prime\Exam 1\bin\Debug\Exam 1.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\WAP for prime\Exam 1\bin\Debug\Exam 1.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\C#\WAP for prime\Exam 1\obj\Debug\Exam 1.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\WAP for prime\Exam 1\obj\Debug\Exam 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\WAP for prime\Exam 1\obj\Debug\Exam 1.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\WAP for prime\Exam 1\obj\Debug\Exam 1.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\WAP for prime\Exam 1\obj\Debug\Exam 1.pdb

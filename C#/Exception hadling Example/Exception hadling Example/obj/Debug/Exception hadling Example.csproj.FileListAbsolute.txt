@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Exception hadling Example\Exception hadling Example\bin\Debug\Exception hadling Example.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Exception hadling Example\Exception hadling Example\bin\Debug\Exception hadling Example.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Exception hadling Example\Exception hadling Example\bin\Debug\Exception hadling Example.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Exception hadling Example\Exception hadling Example\obj\Debug\Exception hadling Example.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Exception hadling Example\Exception hadling Example\obj\Debug\Exception hadling Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Exception hadling Example\Exception hadling Example\obj\Debug\Exception hadling Example.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Exception hadling Example\Exception hadling Example\obj\Debug\Exception hadling Example.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Exception hadling Example\Exception hadling Example\obj\Debug\Exception hadling Example.pdb

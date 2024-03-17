@@ -1,0 +1,16 @@
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input 10 numbers and find maximum of it (1d array)\Program 12\bin\Debug\Program 12.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input 10 numbers and find maximum of it (1d array)\Program 12\bin\Debug\Program 12.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input 10 numbers and find maximum of it (1d array)\Program 12\bin\Debug\Program 12.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input 10 numbers and find maximum of it (1d array)\Program 12\obj\Debug\Program 12.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input 10 numbers and find maximum of it (1d array)\Program 12\obj\Debug\Program 12.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input 10 numbers and find maximum of it (1d array)\Program 12\obj\Debug\Program 12.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input 10 numbers and find maximum of it (1d array)\Program 12\obj\Debug\Program 12.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input 10 numbers and find maximum of it (1d array)\Program 12\obj\Debug\Program 12.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\1d array class\Program 12\bin\Debug\Program 12.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\1d array class\Program 12\bin\Debug\Program 12.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\1d array class\Program 12\bin\Debug\Program 12.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\1d array class\Program 12\obj\Debug\Program 12.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\1d array class\Program 12\obj\Debug\Program 12.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\1d array class\Program 12\obj\Debug\Program 12.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\1d array class\Program 12\obj\Debug\Program 12.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git-C#\C#\1d array class\Program 12\obj\Debug\Program 12.pdb

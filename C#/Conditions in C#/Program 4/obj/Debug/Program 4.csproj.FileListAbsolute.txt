@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input amount,price form user and apply discount according to citryname\Program 4\bin\Debug\Program 4.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input amount,price form user and apply discount according to citryname\Program 4\bin\Debug\Program 4.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input amount,price form user and apply discount according to citryname\Program 4\bin\Debug\Program 4.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input amount,price form user and apply discount according to citryname\Program 4\obj\Debug\Program 4.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input amount,price form user and apply discount according to citryname\Program 4\obj\Debug\Program 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input amount,price form user and apply discount according to citryname\Program 4\obj\Debug\Program 4.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input amount,price form user and apply discount according to citryname\Program 4\obj\Debug\Program 4.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input amount,price form user and apply discount according to citryname\Program 4\obj\Debug\Program 4.pdb

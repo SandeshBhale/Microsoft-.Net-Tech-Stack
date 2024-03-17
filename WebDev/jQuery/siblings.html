@@ -1,0 +1,45 @@
+<html>
+<head>
+<title>Jquery Practice Code</title>
+<script src="C:\Users\SANDESH\Desktop\RI-Tech\Git-webdev\Web Devolopement\jQuery\Jquery.js"></script>
+<script>
+    $(document).ready(function(){
+	$(".dv1 .dv-1").next().css("background-color","pink");
+	$(".dv1 h1").nextAll().css("background-color","red");
+	$(".dv-1 p").nextUntil("span").css("background-color","yellow");
+
+	$(".dv-4 p").prev().css("background-color","tomato");
+	$(".dv-3 span").prevAll().css("background-color","red");
+	$(".dv-4 span").prevUntil(".dv-4 h1").css("background-color","cyan");
+
+    });
+</script>
+</head>
+<body>
+    <div class="dv1">
+	<div class="dv-1">
+        	<h1>Heading 1</h1>
+        	<p>Para 1</p>
+        	<span>This is span 1</span>
+	</div>
+	<div class="dv-2">
+		<h1>Heading 2</h1>
+		<p>Para 1</p>
+        	<span>This is span 2</span>
+	</div>
+    </div>
+
+<div class="dv2">
+	<div class="dv-3">
+        	<h1>Heading 1</h1>
+        	<p>Para 1</p>
+        	<span>This is span 1</span>
+	</div>
+	<div class="dv-4">
+		<h1>Heading 2</h1>
+		<p>Para 1</p>
+        	<span>This is span 2</span>
+	</div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,8 @@
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Delegate annonymous method example\Delegate annonymous method example\bin\Debug\Delegate annonymous method example.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Delegate annonymous method example\Delegate annonymous method example\bin\Debug\Delegate annonymous method example.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Delegate annonymous method example\Delegate annonymous method example\bin\Debug\Delegate annonymous method example.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Delegate annonymous method example\Delegate annonymous method example\obj\Debug\Delegate annonymous method example.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Delegate annonymous method example\Delegate annonymous method example\obj\Debug\Delegate annonymous method example.csproj.SuggestedBindingRedirects.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Delegate annonymous method example\Delegate annonymous method example\obj\Debug\Delegate annonymous method example.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Delegate annonymous method example\Delegate annonymous method example\obj\Debug\Delegate annonymous method example.exe
+C:\Users\SANDESH\Desktop\RI-Tech\C#\Delegate annonymous method example\Delegate annonymous method example\obj\Debug\Delegate annonymous method example.pdb
