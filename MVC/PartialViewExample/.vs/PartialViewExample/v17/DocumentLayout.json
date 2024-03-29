@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\PartialViewExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B16672-C4AC-4570-A6B0-57541743E956}|PartialViewExample\\PartialViewExample.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\mvc\\partialviewexample\\partialviewexample\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6B16672-C4AC-4570-A6B0-57541743E956}|PartialViewExample\\PartialViewExample.csproj|solutionrelative:partialviewexample\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B16672-C4AC-4570-A6B0-57541743E956}|PartialViewExample\\PartialViewExample.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\mvc\\partialviewexample\\partialviewexample\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B16672-C4AC-4570-A6B0-57541743E956}|PartialViewExample\\PartialViewExample.csproj|solutionrelative:partialviewexample\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B16672-C4AC-4570-A6B0-57541743E956}|PartialViewExample\\PartialViewExample.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\mvc\\partialviewexample\\partialviewexample\\views\\shared\\_dispemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6B16672-C4AC-4570-A6B0-57541743E956}|PartialViewExample\\PartialViewExample.csproj|solutionrelative:partialviewexample\\views\\shared\\_dispemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B16672-C4AC-4570-A6B0-57541743E956}|PartialViewExample\\PartialViewExample.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\mvc\\partialviewexample\\partialviewexample\\views\\shared\\_sample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6B16672-C4AC-4570-A6B0-57541743E956}|PartialViewExample\\PartialViewExample.csproj|solutionrelative:partialviewexample\\views\\shared\\_sample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B16672-C4AC-4570-A6B0-57541743E956}|PartialViewExample\\PartialViewExample.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\mvc\\partialviewexample\\partialviewexample\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B16672-C4AC-4570-A6B0-57541743E956}|PartialViewExample\\PartialViewExample.csproj|solutionrelative:partialviewexample\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_dispEmp.cshtml",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\PartialViewExample\\PartialViewExample\\Views\\Shared\\_dispEmp.cshtml",
+              "RelativeDocumentMoniker": "PartialViewExample\\Views\\Shared\\_dispEmp.cshtml",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\PartialViewExample\\PartialViewExample\\Views\\Shared\\_dispEmp.cshtml",
+              "RelativeToolTip": "PartialViewExample\\Views\\Shared\\_dispEmp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T05:57:28.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\PartialViewExample\\PartialViewExample\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "PartialViewExample\\Models\\Emp.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\PartialViewExample\\PartialViewExample\\Models\\Emp.cs",
+              "RelativeToolTip": "PartialViewExample\\Models\\Emp.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T05:53:23.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Sample.cshtml",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\PartialViewExample\\PartialViewExample\\Views\\Shared\\_Sample.cshtml",
+              "RelativeDocumentMoniker": "PartialViewExample\\Views\\Shared\\_Sample.cshtml",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\PartialViewExample\\PartialViewExample\\Views\\Shared\\_Sample.cshtml",
+              "RelativeToolTip": "PartialViewExample\\Views\\Shared\\_Sample.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T05:50:22.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\PartialViewExample\\PartialViewExample\\Views\\Test\\Index.cshtml",
+              "RelativeDocumentMoniker": "PartialViewExample\\Views\\Test\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\PartialViewExample\\PartialViewExample\\Views\\Test\\Index.cshtml",
+              "RelativeToolTip": "PartialViewExample\\Views\\Test\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T05:49:21.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\PartialViewExample\\PartialViewExample\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "PartialViewExample\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\PartialViewExample\\PartialViewExample\\Controllers\\TestController.cs",
+              "RelativeToolTip": "PartialViewExample\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T05:49:08.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

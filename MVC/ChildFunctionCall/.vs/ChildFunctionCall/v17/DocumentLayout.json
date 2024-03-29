@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\ChildFunctionCall\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0BA4CE-1884-4CB5-9F77-D6AC0FFF752D}|ChildFunctionCall\\ChildFunctionCall.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\mvc\\childfunctioncall\\childfunctioncall\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E0BA4CE-1884-4CB5-9F77-D6AC0FFF752D}|ChildFunctionCall\\ChildFunctionCall.csproj|solutionrelative:childfunctioncall\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0BA4CE-1884-4CB5-9F77-D6AC0FFF752D}|ChildFunctionCall\\ChildFunctionCall.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\mvc\\childfunctioncall\\childfunctioncall\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0BA4CE-1884-4CB5-9F77-D6AC0FFF752D}|ChildFunctionCall\\ChildFunctionCall.csproj|solutionrelative:childfunctioncall\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0BA4CE-1884-4CB5-9F77-D6AC0FFF752D}|ChildFunctionCall\\ChildFunctionCall.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\mvc\\childfunctioncall\\childfunctioncall\\views\\shared\\_dispdept.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E0BA4CE-1884-4CB5-9F77-D6AC0FFF752D}|ChildFunctionCall\\ChildFunctionCall.csproj|solutionrelative:childfunctioncall\\views\\shared\\_dispdept.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0BA4CE-1884-4CB5-9F77-D6AC0FFF752D}|ChildFunctionCall\\ChildFunctionCall.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\mvc\\childfunctioncall\\childfunctioncall\\views\\shared\\_dispemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E0BA4CE-1884-4CB5-9F77-D6AC0FFF752D}|ChildFunctionCall\\ChildFunctionCall.csproj|solutionrelative:childfunctioncall\\views\\shared\\_dispemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0BA4CE-1884-4CB5-9F77-D6AC0FFF752D}|ChildFunctionCall\\ChildFunctionCall.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\mvc\\childfunctioncall\\childfunctioncall\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0BA4CE-1884-4CB5-9F77-D6AC0FFF752D}|ChildFunctionCall\\ChildFunctionCall.csproj|solutionrelative:childfunctioncall\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0BA4CE-1884-4CB5-9F77-D6AC0FFF752D}|ChildFunctionCall\\ChildFunctionCall.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\mvc\\childfunctioncall\\childfunctioncall\\models\\dept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0BA4CE-1884-4CB5-9F77-D6AC0FFF752D}|ChildFunctionCall\\ChildFunctionCall.csproj|solutionrelative:childfunctioncall\\models\\dept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0BA4CE-1884-4CB5-9F77-D6AC0FFF752D}|ChildFunctionCall\\ChildFunctionCall.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\mvc\\childfunctioncall\\childfunctioncall\\models\\empinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0BA4CE-1884-4CB5-9F77-D6AC0FFF752D}|ChildFunctionCall\\ChildFunctionCall.csproj|solutionrelative:childfunctioncall\\models\\empinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\ChildFunctionCall\\ChildFunctionCall\\Views\\Test\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChildFunctionCall\\Views\\Test\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\ChildFunctionCall\\ChildFunctionCall\\Views\\Test\\Index.cshtml",
+              "RelativeToolTip": "ChildFunctionCall\\Views\\Test\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T06:46:54.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_dispDept.cshtml",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\ChildFunctionCall\\ChildFunctionCall\\Views\\Shared\\_dispDept.cshtml",
+              "RelativeDocumentMoniker": "ChildFunctionCall\\Views\\Shared\\_dispDept.cshtml",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\ChildFunctionCall\\ChildFunctionCall\\Views\\Shared\\_dispDept.cshtml",
+              "RelativeToolTip": "ChildFunctionCall\\Views\\Shared\\_dispDept.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T06:46:05.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_dispEmp.cshtml",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\ChildFunctionCall\\ChildFunctionCall\\Views\\Shared\\_dispEmp.cshtml",
+              "RelativeDocumentMoniker": "ChildFunctionCall\\Views\\Shared\\_dispEmp.cshtml",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\ChildFunctionCall\\ChildFunctionCall\\Views\\Shared\\_dispEmp.cshtml",
+              "RelativeToolTip": "ChildFunctionCall\\Views\\Shared\\_dispEmp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T06:44:28.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\ChildFunctionCall\\ChildFunctionCall\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "ChildFunctionCall\\Models\\Emp.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\ChildFunctionCall\\ChildFunctionCall\\Models\\Emp.cs",
+              "RelativeToolTip": "ChildFunctionCall\\Models\\Emp.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T06:32:44.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dept.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\ChildFunctionCall\\ChildFunctionCall\\Models\\Dept.cs",
+              "RelativeDocumentMoniker": "ChildFunctionCall\\Models\\Dept.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\ChildFunctionCall\\ChildFunctionCall\\Models\\Dept.cs",
+              "RelativeToolTip": "ChildFunctionCall\\Models\\Dept.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T06:41:53.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpInfo.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\ChildFunctionCall\\ChildFunctionCall\\Models\\EmpInfo.cs",
+              "RelativeDocumentMoniker": "ChildFunctionCall\\Models\\EmpInfo.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\ChildFunctionCall\\ChildFunctionCall\\Models\\EmpInfo.cs",
+              "RelativeToolTip": "ChildFunctionCall\\Models\\EmpInfo.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T06:33:46.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\ChildFunctionCall\\ChildFunctionCall\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "ChildFunctionCall\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\ChildFunctionCall\\ChildFunctionCall\\Controllers\\TestController.cs",
+              "RelativeToolTip": "ChildFunctionCall\\Controllers\\TestController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwCAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T06:19:55.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

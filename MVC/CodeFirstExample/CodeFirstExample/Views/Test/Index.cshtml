@@ -1,0 +1,37 @@
+﻿@model IEnumerable<CodeFirstExample.Models.Customer>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        <table border="1">
+            <tr>
+                <th>@Html.DisplayNameFor(p=>p.CustomerId)</th>
+                <th>@Html.DisplayNameFor(p=>p.CustomerName)</th>
+                <th>@Html.DisplayNameFor(p=>p.Address)</th>
+                <th>@Html.DisplayNameFor(p=>p.Mobile)</th>
+                <th>@Html.DisplayNameFor(p=>p.City)</th>
+            </tr>
+
+            @foreach (var temp in Model)
+            {
+                <tr>
+                    <td>@temp.CustomerId</td>
+                    <td>@temp.CustomerName</td>
+                    <td>@temp.Address</td>
+                    <td>@temp.Mobile</td>
+                    <td>@temp.City</td>
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>

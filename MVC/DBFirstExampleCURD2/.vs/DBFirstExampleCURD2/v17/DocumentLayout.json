@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Entity\\DBFirstExampleCURD2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B80F289-1D16-4DCC-8F9F-F87DFD50285D}|DBFirstExampleCURD2\\DBFirstExampleCURD2.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\entity\\dbfirstexamplecurd2\\dbfirstexamplecurd2\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B80F289-1D16-4DCC-8F9F-F87DFD50285D}|DBFirstExampleCURD2\\DBFirstExampleCURD2.csproj|solutionrelative:dbfirstexamplecurd2\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Entity\\DBFirstExampleCURD2\\DBFirstExampleCURD2\\Views\\Test\\Index.cshtml",
+              "RelativeDocumentMoniker": "DBFirstExampleCURD2\\Views\\Test\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Entity\\DBFirstExampleCURD2\\DBFirstExampleCURD2\\Views\\Test\\Index.cshtml",
+              "RelativeToolTip": "DBFirstExampleCURD2\\Views\\Test\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T08:32:54.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

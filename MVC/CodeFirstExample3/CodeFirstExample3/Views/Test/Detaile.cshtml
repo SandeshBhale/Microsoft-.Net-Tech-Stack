@@ -1,0 +1,58 @@
+﻿@model CodeFirstExample3.Models.Employee
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Detaile</title>
+</head>
+<body>
+    <div>
+        <h4>Employee</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Name.DeptName)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Name.DeptName)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.EmpName)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.EmpName)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.EmpSal)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.EmpSal)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Mobile)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Mobile)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.EmpId }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>
