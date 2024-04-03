@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{167106C2-10D0-4AE1-BDDA-9C5C8FAE5674}|AuthorizationExample\\AuthorizationExample.csproj|C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\authorizationexample\\areas\\userarea\\controllers\\userhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167106C2-10D0-4AE1-BDDA-9C5C8FAE5674}|AuthorizationExample\\AuthorizationExample.csproj|solutionrelative:authorizationexample\\areas\\userarea\\controllers\\userhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167106C2-10D0-4AE1-BDDA-9C5C8FAE5674}|AuthorizationExample\\AuthorizationExample.csproj|C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\authorizationexample\\controllers\\manageusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167106C2-10D0-4AE1-BDDA-9C5C8FAE5674}|AuthorizationExample\\AuthorizationExample.csproj|solutionrelative:authorizationexample\\controllers\\manageusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167106C2-10D0-4AE1-BDDA-9C5C8FAE5674}|AuthorizationExample\\AuthorizationExample.csproj|C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\authorizationexample\\views\\manageuser\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{167106C2-10D0-4AE1-BDDA-9C5C8FAE5674}|AuthorizationExample\\AuthorizationExample.csproj|solutionrelative:authorizationexample\\views\\manageuser\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167106C2-10D0-4AE1-BDDA-9C5C8FAE5674}|AuthorizationExample\\AuthorizationExample.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\mvc\\authorizationexample\\authorizationexample\\custauth\\authlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167106C2-10D0-4AE1-BDDA-9C5C8FAE5674}|AuthorizationExample\\AuthorizationExample.csproj|solutionrelative:authorizationexample\\custauth\\authlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167106C2-10D0-4AE1-BDDA-9C5C8FAE5674}|AuthorizationExample\\AuthorizationExample.csproj|C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\authorizationexample\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167106C2-10D0-4AE1-BDDA-9C5C8FAE5674}|AuthorizationExample\\AuthorizationExample.csproj|solutionrelative:authorizationexample\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167106C2-10D0-4AE1-BDDA-9C5C8FAE5674}|AuthorizationExample\\AuthorizationExample.csproj|C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\authorizationexample\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167106C2-10D0-4AE1-BDDA-9C5C8FAE5674}|AuthorizationExample\\AuthorizationExample.csproj|solutionrelative:authorizationexample\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167106C2-10D0-4AE1-BDDA-9C5C8FAE5674}|AuthorizationExample\\AuthorizationExample.csproj|C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\authorizationexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167106C2-10D0-4AE1-BDDA-9C5C8FAE5674}|AuthorizationExample\\AuthorizationExample.csproj|solutionrelative:authorizationexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167106C2-10D0-4AE1-BDDA-9C5C8FAE5674}|AuthorizationExample\\AuthorizationExample.csproj|C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\authorizationexample\\areas\\userarea\\views\\userhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{167106C2-10D0-4AE1-BDDA-9C5C8FAE5674}|AuthorizationExample\\AuthorizationExample.csproj|solutionrelative:authorizationexample\\areas\\userarea\\views\\userhome\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167106C2-10D0-4AE1-BDDA-9C5C8FAE5674}|AuthorizationExample\\AuthorizationExample.csproj|C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\authorizationexample\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{167106C2-10D0-4AE1-BDDA-9C5C8FAE5674}|AuthorizationExample\\AuthorizationExample.csproj|solutionrelative:authorizationexample\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167106C2-10D0-4AE1-BDDA-9C5C8FAE5674}|AuthorizationExample\\AuthorizationExample.csproj|C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\authorizationexample\\models\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167106C2-10D0-4AE1-BDDA-9C5C8FAE5674}|AuthorizationExample\\AuthorizationExample.csproj|solutionrelative:authorizationexample\\models\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthLogin.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\AuthorizationExample\\CustAuth\\AuthLogin.cs",
+              "RelativeDocumentMoniker": "AuthorizationExample\\CustAuth\\AuthLogin.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\AuthorizationExample\\CustAuth\\AuthLogin.cs",
+              "RelativeToolTip": "AuthorizationExample\\CustAuth\\AuthLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T09:54:33.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\AuthorizationExample\\Views\\ManageUser\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "AuthorizationExample\\Views\\ManageUser\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\AuthorizationExample\\Views\\ManageUser\\SignUp.cshtml",
+              "RelativeToolTip": "AuthorizationExample\\Views\\ManageUser\\SignUp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T09:48:30.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\AuthorizationExample\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "AuthorizationExample\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\AuthorizationExample\\Models\\Product.cs",
+              "RelativeToolTip": "AuthorizationExample\\Models\\Product.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T09:33:39.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\AuthorizationExample\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AuthorizationExample\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\AuthorizationExample\\Models\\User.cs",
+              "RelativeToolTip": "AuthorizationExample\\Models\\User.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T09:33:26.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "userContext.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\AuthorizationExample\\Models\\userContext.cs",
+              "RelativeDocumentMoniker": "AuthorizationExample\\Models\\userContext.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\AuthorizationExample\\Models\\userContext.cs",
+              "RelativeToolTip": "AuthorizationExample\\Models\\userContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T09:33:13.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageUserController.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\AuthorizationExample\\Controllers\\ManageUserController.cs",
+              "RelativeDocumentMoniker": "AuthorizationExample\\Controllers\\ManageUserController.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\AuthorizationExample\\Controllers\\ManageUserController.cs",
+              "RelativeToolTip": "AuthorizationExample\\Controllers\\ManageUserController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAA3wDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T09:31:19.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\AuthorizationExample\\Areas\\UserArea\\Controllers\\UserHomeController.cs",
+              "RelativeDocumentMoniker": "AuthorizationExample\\Areas\\UserArea\\Controllers\\UserHomeController.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\AuthorizationExample\\Areas\\UserArea\\Controllers\\UserHomeController.cs",
+              "RelativeToolTip": "AuthorizationExample\\Areas\\UserArea\\Controllers\\UserHomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T09:29:20.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\AuthorizationExample\\Areas\\UserArea\\Views\\UserHome\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthorizationExample\\Areas\\UserArea\\Views\\UserHome\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\AuthorizationExample\\Areas\\UserArea\\Views\\UserHome\\Index.cshtml",
+              "RelativeToolTip": "AuthorizationExample\\Areas\\UserArea\\Views\\UserHome\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T09:30:45.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\AuthorizationExample\\Models\\LoginVM.cs",
+              "RelativeDocumentMoniker": "AuthorizationExample\\Models\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\AuthorizationExample\\Models\\LoginVM.cs",
+              "RelativeToolTip": "AuthorizationExample\\Models\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T09:33:47.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\AuthorizationExample\\Web.config",
+              "RelativeDocumentMoniker": "AuthorizationExample\\Web.config",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\AuthorizationExample\\AuthorizationExample\\Web.config",
+              "RelativeToolTip": "AuthorizationExample\\Web.config",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAD8AAACiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-30T09:34:54.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿@model AuthorizationExample.Models.LoginVM
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SignIn</title>
+</head>
+<body>
+    <div> 
+        @using (Html.BeginForm())
+            {
+                <label>Email:</label>
+                @Html.EditorFor(p=>p.Email)
+                <br />
+                <label>Password</label>
+                @Html.EditorFor(p => p.Password)
+                <br />
+                <input type="submit" value="Submit" />
+                <br />
+                @Html.ActionLink("SignUP","SignUp")
+                
+            }
+    </div>
+</body>
+</html>

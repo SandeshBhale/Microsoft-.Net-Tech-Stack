@@ -1,0 +1,33 @@
+﻿@model AuthorizationExample.Models.User 
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SignUp</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm())
+        {
+            <label>Enter username:</label>
+            @Html.EditorFor(p => p.UserName)
+            <br />
+            <label>Enter Email:</label>
+            @Html.EditorFor(p => p.Email)
+            <br />
+            <label>Enter Password:</label>
+            @Html.EditorFor(p => p.Password)
+            <br />
+            <label>Enter Address:</label>
+            @Html.EditorFor(p => p.Address)
+            <br />
+            <input type="submit" value="Signup" />
+        }
+    </div>
+</body>
+</html>

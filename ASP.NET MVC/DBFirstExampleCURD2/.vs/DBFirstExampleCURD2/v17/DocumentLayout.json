@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\DBFirstExampleCURD2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B80F289-1D16-4DCC-8F9F-F87DFD50285D}|DBFirstExampleCURD2\\DBFirstExampleCURD2.csproj|C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\DBFirstExampleCURD2\\dbfirstexamplecurd2\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B80F289-1D16-4DCC-8F9F-F87DFD50285D}|DBFirstExampleCURD2\\DBFirstExampleCURD2.csproj|solutionrelative:dbfirstexamplecurd2\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B80F289-1D16-4DCC-8F9F-F87DFD50285D}|DBFirstExampleCURD2\\DBFirstExampleCURD2.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\mvc\\dbfirstexamplecurd2\\dbfirstexamplecurd2\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B80F289-1D16-4DCC-8F9F-F87DFD50285D}|DBFirstExampleCURD2\\DBFirstExampleCURD2.csproj|solutionrelative:dbfirstexamplecurd2\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B80F289-1D16-4DCC-8F9F-F87DFD50285D}|DBFirstExampleCURD2\\DBFirstExampleCURD2.csproj|C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\DBFirstExampleCURD2\\dbfirstexamplecurd2\\views\\test\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B80F289-1D16-4DCC-8F9F-F87DFD50285D}|DBFirstExampleCURD2\\DBFirstExampleCURD2.csproj|solutionrelative:dbfirstexamplecurd2\\views\\test\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B80F289-1D16-4DCC-8F9F-F87DFD50285D}|DBFirstExampleCURD2\\DBFirstExampleCURD2.csproj|C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\DBFirstExampleCURD2\\dbfirstexamplecurd2\\views\\test\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B80F289-1D16-4DCC-8F9F-F87DFD50285D}|DBFirstExampleCURD2\\DBFirstExampleCURD2.csproj|solutionrelative:dbfirstexamplecurd2\\views\\test\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\DBFirstExampleCURD2\\DBFirstExampleCURD2\\Views\\Test\\Update.cshtml",
+              "RelativeDocumentMoniker": "DBFirstExampleCURD2\\Views\\Test\\Update.cshtml",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\DBFirstExampleCURD2\\DBFirstExampleCURD2\\Views\\Test\\Update.cshtml",
+              "RelativeToolTip": "DBFirstExampleCURD2\\Views\\Test\\Update.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T05:53:05.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\DBFirstExampleCURD2\\DBFirstExampleCURD2\\Views\\Test\\Create.cshtml",
+              "RelativeDocumentMoniker": "DBFirstExampleCURD2\\Views\\Test\\Create.cshtml",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\DBFirstExampleCURD2\\DBFirstExampleCURD2\\Views\\Test\\Create.cshtml",
+              "RelativeToolTip": "DBFirstExampleCURD2\\Views\\Test\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T05:52:07.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\DBFirstExampleCURD2\\DBFirstExampleCURD2\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "DBFirstExampleCURD2\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\DBFirstExampleCURD2\\DBFirstExampleCURD2\\Controllers\\TestController.cs",
+              "RelativeToolTip": "DBFirstExampleCURD2\\Controllers\\TestController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAtwD8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T05:41:28.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\DBFirstExampleCURD2\\DBFirstExampleCURD2\\Views\\Test\\Index.cshtml",
+              "RelativeDocumentMoniker": "DBFirstExampleCURD2\\Views\\Test\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\MVC\\DBFirstExampleCURD2\\DBFirstExampleCURD2\\Views\\Test\\Index.cshtml",
+              "RelativeToolTip": "DBFirstExampleCURD2\\Views\\Test\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T08:32:54.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET Core\\FirstAppCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88509E4C-8C69-4C90-97F8-A67D1C4785D1}|FirstAppCore\\FirstAppCore.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\asp.net core\\firstappcore\\firstappcore\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88509E4C-8C69-4C90-97F8-A67D1C4785D1}|FirstAppCore\\FirstAppCore.csproj|solutionrelative:firstappcore\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88509E4C-8C69-4C90-97F8-A67D1C4785D1}|FirstAppCore\\FirstAppCore.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\asp.net core\\firstappcore\\firstappcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88509E4C-8C69-4C90-97F8-A67D1C4785D1}|FirstAppCore\\FirstAppCore.csproj|solutionrelative:firstappcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88509E4C-8C69-4C90-97F8-A67D1C4785D1}|FirstAppCore\\FirstAppCore.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\asp.net core\\firstappcore\\firstappcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88509E4C-8C69-4C90-97F8-A67D1C4785D1}|FirstAppCore\\FirstAppCore.csproj|solutionrelative:firstappcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88509E4C-8C69-4C90-97F8-A67D1C4785D1}|FirstAppCore\\FirstAppCore.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\asp.net core\\firstappcore\\firstappcore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88509E4C-8C69-4C90-97F8-A67D1C4785D1}|FirstAppCore\\FirstAppCore.csproj|solutionrelative:firstappcore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET Core\\FirstAppCore\\FirstAppCore\\Program.cs",
+              "RelativeDocumentMoniker": "FirstAppCore\\Program.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET Core\\FirstAppCore\\FirstAppCore\\Program.cs",
+              "RelativeToolTip": "FirstAppCore\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T07:29:36.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET Core\\FirstAppCore\\FirstAppCore\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstAppCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET Core\\FirstAppCore\\FirstAppCore\\appsettings.json",
+              "RelativeToolTip": "FirstAppCore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T07:29:19.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET Core\\FirstAppCore\\FirstAppCore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FirstAppCore\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET Core\\FirstAppCore\\FirstAppCore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FirstAppCore\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T07:28:34.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET Core\\FirstAppCore\\FirstAppCore\\Startup.cs",
+              "RelativeDocumentMoniker": "FirstAppCore\\Startup.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET Core\\FirstAppCore\\FirstAppCore\\Startup.cs",
+              "RelativeToolTip": "FirstAppCore\\Startup.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwCYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T07:28:12.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
