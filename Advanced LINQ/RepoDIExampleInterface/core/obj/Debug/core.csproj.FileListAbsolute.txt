@@ -1,0 +1,6 @@
+C:\Users\SANDESH\Desktop\RI-Tech\Git\Advanced LINQ\RepoDIExample\core\bin\Debug\core.dll
+C:\Users\SANDESH\Desktop\RI-Tech\Git\Advanced LINQ\RepoDIExample\core\bin\Debug\core.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Git\Advanced LINQ\RepoDIExample\core\obj\Debug\core.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git\Advanced LINQ\RepoDIExample\core\obj\Debug\core.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git\Advanced LINQ\RepoDIExample\core\obj\Debug\core.dll
+C:\Users\SANDESH\Desktop\RI-Tech\Git\Advanced LINQ\RepoDIExample\core\obj\Debug\core.pdb

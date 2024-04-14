@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Advanced LINQ\\StoredProcedureCodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFF7519-42BC-489A-A063-8401E8E4E06E}|StoredProcedureCodeFirst\\StoredProcedureCodeFirst.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\advanced linq\\storedprocedurecodefirst\\storedprocedurecodefirst\\views\\emps\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EFF7519-42BC-489A-A063-8401E8E4E06E}|StoredProcedureCodeFirst\\StoredProcedureCodeFirst.csproj|solutionrelative:storedprocedurecodefirst\\views\\emps\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFF7519-42BC-489A-A063-8401E8E4E06E}|StoredProcedureCodeFirst\\StoredProcedureCodeFirst.csproj|C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Advanced LINQ\\StoredProcedureCodeFirst\\storedprocedurecodefirst\\views\\test\\empscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFF7519-42BC-489A-A063-8401E8E4E06E}|StoredProcedureCodeFirst\\StoredProcedureCodeFirst.csproj|solutionrelative:storedprocedurecodefirst\\views\\test\\empscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFF7519-42BC-489A-A063-8401E8E4E06E}|StoredProcedureCodeFirst\\StoredProcedureCodeFirst.csproj|C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Advanced LINQ\\StoredProcedureCodeFirst\\storedprocedurecodefirst\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7EFF7519-42BC-489A-A063-8401E8E4E06E}|StoredProcedureCodeFirst\\StoredProcedureCodeFirst.csproj|solutionrelative:storedprocedurecodefirst\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFF7519-42BC-489A-A063-8401E8E4E06E}|StoredProcedureCodeFirst\\StoredProcedureCodeFirst.csproj|C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Advanced LINQ\\StoredProcedureCodeFirst\\storedprocedurecodefirst\\models\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFF7519-42BC-489A-A063-8401E8E4E06E}|StoredProcedureCodeFirst\\StoredProcedureCodeFirst.csproj|solutionrelative:storedprocedurecodefirst\\models\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFF7519-42BC-489A-A063-8401E8E4E06E}|StoredProcedureCodeFirst\\StoredProcedureCodeFirst.csproj|C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Advanced LINQ\\StoredProcedureCodeFirst\\storedprocedurecodefirst\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFF7519-42BC-489A-A063-8401E8E4E06E}|StoredProcedureCodeFirst\\StoredProcedureCodeFirst.csproj|solutionrelative:storedprocedurecodefirst\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Advanced LINQ\\StoredProcedureCodeFirst\\StoredProcedureCodeFirst\\Views\\Emps\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoredProcedureCodeFirst\\Views\\Emps\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Advanced LINQ\\StoredProcedureCodeFirst\\StoredProcedureCodeFirst\\Views\\Emps\\Index.cshtml",
+              "RelativeToolTip": "StoredProcedureCodeFirst\\Views\\Emps\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T10:44:12.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Advanced LINQ\\StoredProcedureCodeFirst\\StoredProcedureCodeFirst\\Web.config",
+              "RelativeDocumentMoniker": "StoredProcedureCodeFirst\\Web.config",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Advanced LINQ\\StoredProcedureCodeFirst\\StoredProcedureCodeFirst\\Web.config",
+              "RelativeToolTip": "StoredProcedureCodeFirst\\Web.config",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-06T10:40:08.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpsController.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Advanced LINQ\\StoredProcedureCodeFirst\\StoredProcedureCodeFirst\\Views\\Test\\EmpsController.cs",
+              "RelativeDocumentMoniker": "StoredProcedureCodeFirst\\Views\\Test\\EmpsController.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Advanced LINQ\\StoredProcedureCodeFirst\\StoredProcedureCodeFirst\\Views\\Test\\EmpsController.cs",
+              "RelativeToolTip": "StoredProcedureCodeFirst\\Views\\Test\\EmpsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:39:48.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpContext.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Advanced LINQ\\StoredProcedureCodeFirst\\StoredProcedureCodeFirst\\Models\\EmpContext.cs",
+              "RelativeDocumentMoniker": "StoredProcedureCodeFirst\\Models\\EmpContext.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Advanced LINQ\\StoredProcedureCodeFirst\\StoredProcedureCodeFirst\\Models\\EmpContext.cs",
+              "RelativeToolTip": "StoredProcedureCodeFirst\\Models\\EmpContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:32:51.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Advanced LINQ\\StoredProcedureCodeFirst\\StoredProcedureCodeFirst\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "StoredProcedureCodeFirst\\Models\\Emp.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Advanced LINQ\\StoredProcedureCodeFirst\\StoredProcedureCodeFirst\\Models\\Emp.cs",
+              "RelativeToolTip": "StoredProcedureCodeFirst\\Models\\Emp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:30:40.534Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
