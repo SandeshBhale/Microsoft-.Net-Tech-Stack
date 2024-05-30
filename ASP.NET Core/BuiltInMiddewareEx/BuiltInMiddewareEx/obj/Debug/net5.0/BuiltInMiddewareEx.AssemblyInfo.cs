@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuiltInMiddewareEx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+508c65e97f25e4bc029d8ad7a777c85ef19a5d9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16b2cbfc521ab7c9190d5515529caaa2d75cdbd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuiltInMiddewareEx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuiltInMiddewareEx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

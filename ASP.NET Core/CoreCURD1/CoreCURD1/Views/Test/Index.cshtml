@@ -1,0 +1,27 @@
+﻿@model IEnumerable<CoreCURD1.Models.Emp>
+<html>
+    <head>
+        <title>List</title>
+    </head>
+    <body>
+        <h2>Emp List</h2>
+        <table>
+            <tr>
+                <th>Sr.No</th>
+                <th>Emp Name</th>
+                <th>Mobile</th>
+                <th>Dept Name</th>
+            </tr>
+
+        @foreach(var temp in Model)
+        {
+            <tr>
+                <td>@temp.EmpId</td>
+                <td>@temp.EmpName</td>
+                <td>@temp.Mob</td>
+                <td>@temp.DeptName</td>
+            </tr>
+        }
+        </table>
+    </body>
+</html>

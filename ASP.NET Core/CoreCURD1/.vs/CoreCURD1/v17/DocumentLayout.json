@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET Core\\CoreCURD1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9ADF55-AF29-471A-814C-C117EE34738D}|CoreCURD1\\CoreCURD1.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\asp.net core\\corecurd1\\corecurd1\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A9ADF55-AF29-471A-814C-C117EE34738D}|CoreCURD1\\CoreCURD1.csproj|solutionrelative:corecurd1\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9ADF55-AF29-471A-814C-C117EE34738D}|CoreCURD1\\CoreCURD1.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\asp.net core\\corecurd1\\corecurd1\\models\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9ADF55-AF29-471A-814C-C117EE34738D}|CoreCURD1\\CoreCURD1.csproj|solutionrelative:corecurd1\\models\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9ADF55-AF29-471A-814C-C117EE34738D}|CoreCURD1\\CoreCURD1.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\asp.net core\\corecurd1\\corecurd1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9ADF55-AF29-471A-814C-C117EE34738D}|CoreCURD1\\CoreCURD1.csproj|solutionrelative:corecurd1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9ADF55-AF29-471A-814C-C117EE34738D}|CoreCURD1\\CoreCURD1.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\asp.net core\\corecurd1\\corecurd1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A9ADF55-AF29-471A-814C-C117EE34738D}|CoreCURD1\\CoreCURD1.csproj|solutionrelative:corecurd1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET Core\\CoreCURD1\\CoreCURD1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CoreCURD1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET Core\\CoreCURD1\\CoreCURD1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CoreCURD1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T11:05:23.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET Core\\CoreCURD1\\CoreCURD1\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "CoreCURD1\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET Core\\CoreCURD1\\CoreCURD1\\Controllers\\TestController.cs",
+              "RelativeToolTip": "CoreCURD1\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:58:54.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpContext.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET Core\\CoreCURD1\\CoreCURD1\\Models\\EmpContext.cs",
+              "RelativeDocumentMoniker": "CoreCURD1\\Models\\EmpContext.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET Core\\CoreCURD1\\CoreCURD1\\Models\\EmpContext.cs",
+              "RelativeToolTip": "CoreCURD1\\Models\\EmpContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:09:09.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET Core\\CoreCURD1\\CoreCURD1\\Views\\Test\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreCURD1\\Views\\Test\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET Core\\CoreCURD1\\CoreCURD1\\Views\\Test\\Index.cshtml",
+              "RelativeToolTip": "CoreCURD1\\Views\\Test\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T06:54:34.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
