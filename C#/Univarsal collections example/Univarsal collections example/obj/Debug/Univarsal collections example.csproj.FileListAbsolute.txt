@@ -6,3 +6,10 @@ C:\Users\SANDESH\Desktop\RI-Tech\C#\Univarsal collections example\Univarsal coll
 C:\Users\SANDESH\Desktop\RI-Tech\C#\Univarsal collections example\Univarsal collections example\obj\Debug\Univarsal collections example.csproj.CoreCompileInputs.cache
 C:\Users\SANDESH\Desktop\RI-Tech\C#\Univarsal collections example\Univarsal collections example\obj\Debug\Univarsal collections example.exe
 C:\Users\SANDESH\Desktop\RI-Tech\C#\Univarsal collections example\Univarsal collections example\obj\Debug\Univarsal collections example.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Git\C#\Univarsal collections example\Univarsal collections example\bin\Debug\Univarsal collections example.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\Git\C#\Univarsal collections example\Univarsal collections example\bin\Debug\Univarsal collections example.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git\C#\Univarsal collections example\Univarsal collections example\bin\Debug\Univarsal collections example.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Git\C#\Univarsal collections example\Univarsal collections example\obj\Debug\Univarsal collections example.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git\C#\Univarsal collections example\Univarsal collections example\obj\Debug\Univarsal collections example.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git\C#\Univarsal collections example\Univarsal collections example\obj\Debug\Univarsal collections example.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git\C#\Univarsal collections example\Univarsal collections example\obj\Debug\Univarsal collections example.pdb

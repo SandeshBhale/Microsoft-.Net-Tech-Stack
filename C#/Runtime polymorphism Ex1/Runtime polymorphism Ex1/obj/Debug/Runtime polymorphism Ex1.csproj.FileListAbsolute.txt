@@ -6,3 +6,10 @@ C:\Users\SANDESH\Desktop\RI-Tech\C#\Runtime polymorphism Ex1\Runtime polymorphis
 C:\Users\SANDESH\Desktop\RI-Tech\C#\Runtime polymorphism Ex1\Runtime polymorphism Ex1\bin\Debug\Runtime polymorphism Ex1.pdb
 C:\Users\SANDESH\Desktop\RI-Tech\C#\Runtime polymorphism Ex1\Runtime polymorphism Ex1\obj\Debug\Runtime polymorphism Ex1.exe
 C:\Users\SANDESH\Desktop\RI-Tech\C#\Runtime polymorphism Ex1\Runtime polymorphism Ex1\obj\Debug\Runtime polymorphism Ex1.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Git\C#\Runtime polymorphism Ex1\Runtime polymorphism Ex1\bin\Debug\Runtime polymorphism Ex1.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\Git\C#\Runtime polymorphism Ex1\Runtime polymorphism Ex1\bin\Debug\Runtime polymorphism Ex1.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git\C#\Runtime polymorphism Ex1\Runtime polymorphism Ex1\bin\Debug\Runtime polymorphism Ex1.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Git\C#\Runtime polymorphism Ex1\Runtime polymorphism Ex1\obj\Debug\Runtime polymorphism Ex1.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git\C#\Runtime polymorphism Ex1\Runtime polymorphism Ex1\obj\Debug\Runtime polymorphism Ex1.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git\C#\Runtime polymorphism Ex1\Runtime polymorphism Ex1\obj\Debug\Runtime polymorphism Ex1.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git\C#\Runtime polymorphism Ex1\Runtime polymorphism Ex1\obj\Debug\Runtime polymorphism Ex1.pdb

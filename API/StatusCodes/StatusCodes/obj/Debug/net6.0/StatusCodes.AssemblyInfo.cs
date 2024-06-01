@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StatusCodes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16b2cbfc521ab7c9190d5515529caaa2d75cdbd3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4554311a7a363935de2b9e6f6d15be3862513ba3")]
 [assembly: System.Reflection.AssemblyProductAttribute("StatusCodes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StatusCodes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
