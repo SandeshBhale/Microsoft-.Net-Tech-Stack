@@ -1,0 +1,26 @@
+<h1>Directive Example</h1>
+
+<input type="button" value="{{ flag ? 'Hide' : 'Show' }}" (click)="toggle()" />
+<hr />
+<table border="1" *ngIf="flag">
+  <thead>
+    <th>Product Id</th>
+    <th>Product Name</th>
+    <th>MFG Name</th>
+    <th>Price</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Santoor</td>
+      <td>ITC</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Maggie</td>
+      <td>Nestle</td>
+      <td>15</td>
+    </tr>
+  </tbody>
+</table>

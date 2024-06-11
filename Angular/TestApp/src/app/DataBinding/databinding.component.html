@@ -1,0 +1,25 @@
+<h1>Data Binding Example In Angular</h1>
+<h3 [innerText]="message"></h3>
+<hr />
+one Way : <input type="text" (ngModel)="message" [size]="val"> <br><br>
+two Way : <input type="text" [(ngModel)]="message" [size]="val">
+<hr>
+<input type="text" [value]="message" [size]="val" />
+<hr />
+<h3>{{ SayHelloMessage() }}</h3>
+<!-- <h5>{{ SayHello() }}</h5> -->
+<hr />
+<input
+  type="button"
+  (click)="SayHello()"
+  value="Click To Call SayHello Function"
+/>
+<hr />
+<h3>Show and Hide Message</h3>
+<input type="button" value="{{ flag ? 'Hide' : 'Show' }}" (click)="toggle()" />
+
+<br />
+
+<h2 *ngIf="flag">{{ message }}</h2>
+<dir></dir>
+<hr />
