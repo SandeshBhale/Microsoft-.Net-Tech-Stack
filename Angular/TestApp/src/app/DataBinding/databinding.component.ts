@@ -1,24 +1,28 @@
 import { Component } from "@angular/core";
 
 @Component({
-    selector:'db',
-    templateUrl:'databinding.component.html'
+    selector: 'db',
+    templateUrl: 'databinding.component.html'
 })
 
-export class DataBindingComponent{
-    message:string="Hello Public";
-    val:number=45;
-    flag:boolean=false;
+export class DataBindingComponent {
+    message: string = "Hello Public";
+    val: number = 45;
+    flag: boolean = false;
 
-    SayHello():void{
+    SayHello(): void {
         alert("SayHello Funcation Is Called");
     }
 
-    SayHelloMessage():string{
+    SayHelloMessage(): string {
         return ("SayHello Called");
     }
 
-    toggle():void{
+    toggle(): void {
         this.flag = !this.flag;
+    }
+
+    Show(val: string): void {
+        this.message = val
     }
 }

@@ -24,3 +24,37 @@
     </tr>
   </tbody>
 </table>
+
+<input type="number" [(ngModel)]="val"  [disabled]="flag"/>
+<ul [ngSwitch]="val">
+  <li *ngSwitchCase="1">First Li</li>
+  <li *ngSwitchCase="2">Second Li</li>
+  <li *ngSwitchCase="3">Third Li</li>
+  <li *ngSwitchCase="4">Fourth Li</li>
+  <li *ngSwitchDefault>Default Li</li>
+</ul>
+
+<hr>
+ng-template Example
+
+<span *ngIf="flag;then first;else second"></span>
+
+<input type="button" (click)="toggle()" value="{{flag?'First':'Second'}}">
+
+<ng-template #first>
+  <ul>
+    <li>Angular</li>
+    <li>Knockout</li>
+    <li>Vue</li>
+    <li>ReactJS</li>
+  </ul>
+</ng-template>
+
+<ng-template #second>
+  <ul>
+    <li>ASP.Net Core</li>
+    <li>ASP.Net MVC</li>
+    <li>Django</li>
+    <li>Laravel</li>
+  </ul>
+</ng-template>

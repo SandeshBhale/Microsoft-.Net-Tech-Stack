@@ -21,5 +21,14 @@ two Way : <input type="text" [(ngModel)]="message" [size]="val">
 <br />
 
 <h2 *ngIf="flag">{{ message }}</h2>
-<dir></dir>
+<hr>
+Component Directive Example
+<div>
+  <dir></dir>
+<hr>
+  <dir></dir>
+</div>
 <hr />
+
+Enter Value:<input type="text" #inputval (change)="Show(inputval.value)" /> 
+<input type="button" value="show" (click)="Show(inputval.value)" />
