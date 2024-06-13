@@ -12,14 +12,19 @@ import { IProduct } from './iproduct';
 
 export class ProductComponent implements OnInit {
   prods: IProduct[] = [];
+  flag: boolean = true;
   ngOnInit(): void {
     this.prodsvr.getAllProducts().subscribe(
       (data) => {
-        alert(JSON.stringify(data));
+        // alert(JSON.stringify(data));
         this.prods = data;
       },
       (err) => alert("Error" + JSON.stringify(err))
     );
   }
   constructor(private prodsvr: ProductService) { }
+
+  toggle(): void {
+    this.flag = !this.flag;
+  }
 }

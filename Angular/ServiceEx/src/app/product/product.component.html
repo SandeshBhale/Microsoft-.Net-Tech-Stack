@@ -1,1 +1,21 @@
-<p>product works!</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+         <th> Sr. No.</th>
+            <th> Prdouct ID </th>
+            <th> Product Name </th>
+            <th> Mfg Name </th>
+            <th> Price </th>
+        </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let temp of prods;let ind=index;">
+          <td>{{ind}}</td>
+          <td>{{temp.productID}}</td>
+          <td>{{temp.productName}}</td>
+          <td>{{temp.mfgName}}</td>
+          <td>{{temp.price}}</td>
+         <!-- <td><star [NoOfStars]="temp.Rating"></star></td> -->
+    </tr>
+    </tbody>
+</table>
