@@ -9,6 +9,8 @@ import { CustomerComponent } from './customer/customer.component';
 import { HttpClientModule } from '@angular/common/http';
 import { DetailsComponent } from './details/details.component';
 import { CreateComponent } from './create/create.component';
+import { EditComponent } from './edit/edit.component';
+import { DeleteComponent } from './delete/delete.component';
 
 
 @NgModule({
@@ -17,12 +19,15 @@ import { CreateComponent } from './create/create.component';
     ProductComponent,
     CustomerComponent,
     DetailsComponent,
-    CreateComponent
+    CreateComponent,
+    EditComponent,
+    DeleteComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     ReactiveFormsModule,
+    RouterModule,
     HttpClientModule
   ],
   providers: [],

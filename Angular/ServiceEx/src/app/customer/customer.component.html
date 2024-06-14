@@ -23,9 +23,9 @@
             <td>
                 <a class="btn btn-info" [routerLink]="['/details',temp.customerID,temp.customerName]">Details</a>
                 |
-                <a class="btn btn-primary">Edit</a>
+                <a class="btn btn-primary" [routerLink]="['/edit',temp.customerID]">Edit</a>
                 |
-                <a class="btn btn-danger">Delete</a>
+                <a class="btn btn-danger" [routerLink]="['/delete',temp.customerID]">Delete</a>
             </td>
         </tr>
     </tbody>

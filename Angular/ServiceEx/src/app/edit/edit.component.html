@@ -1,0 +1,60 @@
+<h2> Edit Customer </h2>
+<form (ngSubmit)="UpdateCustomer()" [formGroup]="cfrm">
+    <input type="hidden" formControlName="customerID">
+     <div>
+        <label> Customer Name </label>
+        <div>
+            <input type="text" formControlName="customerName" />
+           <!-- {{cn.className}} -->
+           <div class="error" *ngIf="cfrm.controls['customerName'].invalid && (cfrm.controls['customerName'].dirty || cfrm.controls['customerName'].touched)">
+             Customer Name Required
+           </div>
+        </div>
+     </div>
+     <div>
+        <label> Address </label>
+        <div>
+            <textarea formControlName="address"></textarea>
+            <div class="error" *ngIf="cfrm.controls['address'].invalid && (cfrm.controls['address'].dirty || cfrm.controls['address'].touched)">
+              <span [hidden]="!cfrm.controls.address.hasError('required')"> Address Required</span>
+              <span [hidden]="!cfrm.controls.address.hasError('minlength')"> Minimum 5 Characters</span>
+              <span [hidden]="!cfrm.controls.address.hasError('maxlength')"> Maximum 10 Characters</span>
+             </div>
+        </div>
+     </div>
+     <div>
+        <label> Email ID: </label>
+        <div>
+             <input type="text" formControlName="emailID" />
+             <div class="error" *ngIf="cfrm.controls['emailID'].invalid && (cfrm.controls['emailID'].dirty || cfrm.controls['emailID'].touched)">
+               <span [hidden]="!cfrm.controls.emailID.hasError('required')"> Email Required</span>
+               <span [hidden]="!cfrm.controls.emailID.hasError('email')"> Invalid Email ID</span>
+              </div>
+        </div>
+     </div>
+     <div>
+        <label> Mobile No :</label>
+        <div>
+            <input type="text" formControlName="mobileNo" />
+            <div class="error" *ngIf="cfrm.controls['mobileNo'].invalid && (cfrm.controls['mobileNo'].dirty || cfrm.controls['mobileNo'].touched)">
+               <span [hidden]="!cfrm.controls.mobileNo.hasError('required')"> Mobile No Required</span>
+               <span [hidden]="!cfrm.controls.mobileNo.hasError('pattern')"> 10 Digits Required</span>
+            </div>
+        </div>
+     </div>
+     <div>
+        <label> Credit Limit </label>
+        <div>
+            <input type="text" formControlName="creditLimit" />
+            <div class="error" *ngIf="cfrm.controls['creditLimit'].invalid && (cfrm.controls['creditLimit'].dirty || cfrm.controls['creditLimit'].touched)">
+               <span [hidden]="!cfrm.controls.creditLimit.hasError('required')"> Credit Limit Required</span>
+               <span [hidden]="!cfrm.controls.creditLimit.hasError('min')"> mininum 1000</span>
+               <span [hidden]="!cfrm.controls.creditLimit.hasError('max')"> maximum 10000</span>
+            </div>
+        </div>
+     </div>
+     <br>
+     <div>
+        <input type="submit" value="Update" class="btn btn-success" />
+     </div>
+</form>

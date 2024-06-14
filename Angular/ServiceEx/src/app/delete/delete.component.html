@@ -1,0 +1,30 @@
+<br>
+<span class="alert alert-danger">Are you sure to delete this record !!!</span>
+<br><br>
+<table class="table table-bordered">
+    <tr>
+        <td> Customer ID: </td>
+        <td>{{customerrec.customerID}} </td>
+    </tr>
+    <tr>
+        <td> Customer Name:</td>
+        <td>{{customerrec.customerName}}</td>
+    </tr>
+    <tr>
+        <td> Address: </td>
+        <td>{{customerrec.address}} </td>
+    </tr>
+    <tr>
+        <td> Email ID:</td>
+        <td>{{customerrec.emailID}}</td>
+    </tr>
+    <tr>
+        <td> Mobile No:</td>
+        <td>{{customerrec.mobileNo}}</td>
+    </tr>
+    <tr>
+        <td> Credit Limit:</td>
+        <td>{{customerrec.creditLimit}}</td>
+    </tr>
+</table>
+<input type="button" value="Delete" (click)="DeleteCustomer()" class="btn btn-danger"/>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularTaskAPI", "AngularTaskAPI\AngularTaskAPI.csproj", "{253F5D39-9033-4442-8388-08C3785EA0BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{253F5D39-9033-4442-8388-08C3785EA0BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253F5D39-9033-4442-8388-08C3785EA0BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253F5D39-9033-4442-8388-08C3785EA0BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253F5D39-9033-4442-8388-08C3785EA0BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2491D30-76E2-4710-9851-9D59AA03C99C}
+	EndGlobalSection
+EndGlobal
