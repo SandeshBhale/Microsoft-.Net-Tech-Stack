@@ -1,0 +1,44 @@
+<h2>Create Employee</h2>
+
+<form [formGroup]="cfrm" (ngSubmit)="CreateEmp()">
+    <div>
+        <label>Employee Name</label>
+        <div>
+            <input type="text" formControlName="empName">
+        </div>
+    </div>
+
+    <div>
+        <label>Designation</label>
+        <div>
+            <input type="text" formControlName="designation">
+        </div>
+    </div>
+
+    <div>
+        <label>Salary</label>
+        <div>
+            <input type="text" formControlName="empSal">
+        </div>
+    </div>
+
+    <div>
+        <label>Address </label>
+        <div>
+            <textarea formControlName="address"></textarea>
+        </div>
+    </div>
+
+    <div>
+        <label>Department</label>
+        <div>
+            <select formControlName="deptId">
+                <option *ngFor="let temp of Dept" value="{{temp.deptId}}">{{temp.deptName}}</option>
+            </select>
+        </div>
+    </div>
+    <br>
+    <div>
+        <input type="submit" value="Create" class="btn btn-success">
+    </div>
+</form>

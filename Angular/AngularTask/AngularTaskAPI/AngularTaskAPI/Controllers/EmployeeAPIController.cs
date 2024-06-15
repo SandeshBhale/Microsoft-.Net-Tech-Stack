@@ -19,7 +19,23 @@ namespace AngularTaskAPI.Controllers
         [HttpGet]
         public IActionResult EmpList()
         {
-            return Ok(this.ec.Employees.ToList());
+            var v = from t in this.ec.Employees
+                    join t1 in this.ec.Departments
+                    on t.DeptId equals t1.DeptId
+                    where t.DeptId == t1.DeptId
+                    select new EmpVM
+                    {
+                        EmpId = t.EmpId,
+                        EmpName = t.EmpName,
+                        EmpSal = t.EmpSal,
+                        Address = t.Address,
+                        Designation = t.Designation,
+                        DeptId = t1.DeptId,
+                        DeptName = t1.DeptName
+                    };
+
+            return Ok(v.ToList());
+            //return Ok(this.ec.Employees.ToList());
         }
 
         [HttpGet("{id}")]

@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{253F5D39-9033-4442-8388-08C3785EA0BB}|AngularTaskAPI\\AngularTaskAPI.csproj|solutionrelative:angulartaskapi\\controllers\\employeeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{253F5D39-9033-4442-8388-08C3785EA0BB}|AngularTaskAPI\\AngularTaskAPI.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\angular\\angulartask\\angulartaskapi\\angulartaskapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{253F5D39-9033-4442-8388-08C3785EA0BB}|AngularTaskAPI\\AngularTaskAPI.csproj|solutionrelative:angulartaskapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{253F5D39-9033-4442-8388-08C3785EA0BB}|AngularTaskAPI\\AngularTaskAPI.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\angular\\angulartask\\angulartaskapi\\angulartaskapi\\models\\empvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{253F5D39-9033-4442-8388-08C3785EA0BB}|AngularTaskAPI\\AngularTaskAPI.csproj|solutionrelative:angulartaskapi\\models\\empvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253F5D39-9033-4442-8388-08C3785EA0BB}|AngularTaskAPI\\AngularTaskAPI.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\angular\\angulartask\\angulartaskapi\\angulartaskapi\\controllers\\departmentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{253F5D39-9033-4442-8388-08C3785EA0BB}|AngularTaskAPI\\AngularTaskAPI.csproj|solutionrelative:angulartaskapi\\controllers\\departmentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{253F5D39-9033-4442-8388-08C3785EA0BB}|AngularTaskAPI\\AngularTaskAPI.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\angular\\angulartask\\angulartaskapi\\angulartaskapi\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{253F5D39-9033-4442-8388-08C3785EA0BB}|AngularTaskAPI\\AngularTaskAPI.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\angular\\angulartask\\angulartaskapi\\angulartaskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{253F5D39-9033-4442-8388-08C3785EA0BB}|AngularTaskAPI\\AngularTaskAPI.csproj|solutionrelative:angulartaskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253F5D39-9033-4442-8388-08C3785EA0BB}|AngularTaskAPI\\AngularTaskAPI.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\angular\\angulartask\\angulartaskapi\\angulartaskapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{253F5D39-9033-4442-8388-08C3785EA0BB}|AngularTaskAPI\\AngularTaskAPI.csproj|solutionrelative:angulartaskapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{253F5D39-9033-4442-8388-08C3785EA0BB}|AngularTaskAPI\\AngularTaskAPI.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\angular\\angulartask\\angulartaskapi\\angulartaskapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,56 +54,84 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Angular\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\Controllers\\DepartmentAPIController.cs",
+              "RelativeDocumentMoniker": "AngularTaskAPI\\Controllers\\DepartmentAPIController.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Angular\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\Controllers\\DepartmentAPIController.cs",
+              "RelativeToolTip": "AngularTaskAPI\\Controllers\\DepartmentAPIController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T04:45:23.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "EmployeeAPIController.cs",
               "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Angular\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\Controllers\\EmployeeAPIController.cs",
               "RelativeDocumentMoniker": "AngularTaskAPI\\Controllers\\EmployeeAPIController.cs",
               "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Angular\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\Controllers\\EmployeeAPIController.cs",
               "RelativeToolTip": "AngularTaskAPI\\Controllers\\EmployeeAPIController.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAmwFcAAAAxAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwDAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T10:22:34.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "EmpVM.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Angular\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\Models\\EmpVM.cs",
+              "RelativeDocumentMoniker": "AngularTaskAPI\\Models\\EmpVM.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Angular\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\Models\\EmpVM.cs",
+              "RelativeToolTip": "AngularTaskAPI\\Models\\EmpVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:54:17.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Angular\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\Program.cs",
               "RelativeDocumentMoniker": "AngularTaskAPI\\Program.cs",
               "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Angular\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\Program.cs",
               "RelativeToolTip": "AngularTaskAPI\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T09:10:56.78Z"
+              "WhenOpened": "2024-06-14T09:10:56.78Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EmployeeContext.cs",
               "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Angular\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\Models\\EmployeeContext.cs",
               "RelativeDocumentMoniker": "AngularTaskAPI\\Models\\EmployeeContext.cs",
               "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Angular\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\Models\\EmployeeContext.cs",
               "RelativeToolTip": "AngularTaskAPI\\Models\\EmployeeContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T09:08:11.996Z"
+              "WhenOpened": "2024-06-14T09:08:11.996Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Angular\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\Models\\Department.cs",
               "RelativeDocumentMoniker": "AngularTaskAPI\\Models\\Department.cs",
               "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Angular\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\Models\\Department.cs",
               "RelativeToolTip": "AngularTaskAPI\\Models\\Department.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T09:04:45.94Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\Angular\\AngularTask\\AngularTaskAPI\\AngularTaskAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "AngularTaskAPI\\Properties\\launchSettings.json",

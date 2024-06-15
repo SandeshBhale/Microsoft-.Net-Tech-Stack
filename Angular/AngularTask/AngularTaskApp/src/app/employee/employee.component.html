@@ -3,17 +3,29 @@
 <table class="table table-borderd text-center">
     <thead>
         <tr>
+            <!-- <th>Employee Id</th> -->
             <th>Employee Name</th>
             <th>Designation</th>
             <th>Salary</th>
             <th>Address</th>
             <th>Department</th>
+            <th>Actions</th>
         </tr>
     </thead>
 
     <tbody>
-        <!-- <tr *ngFor="let temp of employee">
-            <th></th>
-        </tr> -->
+        <tr *ngFor="let temp of emps">
+             <!-- <td>{{temp.empId}}</td> -->
+             <td>{{temp.empName}}</td>
+             <td>{{temp.designation}}</td>
+             <td>{{temp.empSal}}</td>
+             <td>{{temp.address}}</td>
+             <td>{{temp.deptName}}</td>
+             <td>
+                <a class="btn btn-primary" [routerLink]="['/edit',temp.empId]">Edit</a>
+                |
+                <a class="btn btn-danger" [routerLink]="['/delete',temp.empId]">Delete</a>
+             </td>
+        </tr>
     </tbody>
 </table>

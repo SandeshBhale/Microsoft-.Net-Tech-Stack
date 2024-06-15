@@ -16,7 +16,8 @@ export class EmployeeComponent implements OnInit {
 
   ngOnInit(): void {
     this.empsvr.getAllEmployees().subscribe(
-      (data) => this.emps = data,
+
+      (data) => this.emps = (data),
       (err) => alert(JSON.stringify(err))
     )
   }

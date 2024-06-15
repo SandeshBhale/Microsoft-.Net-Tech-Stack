@@ -1,0 +1,26 @@
+<br>
+<span class="alert alert-danger">Are you sure to delete this record !!!</span>
+<br><br>
+<table class="table table-bordered">
+    <tr>
+        <td>Employee Name :</td>
+        <td>{{emprec.empId}}</td>
+    </tr>
+    <tr>
+        <td> Designation : </td>
+        <td>{{emprec.designation}} </td>
+    </tr>
+    <tr>
+        <td> Salary :</td>
+        <td>{{emprec.empSal}}</td>
+    </tr>
+    <tr>
+        <td> Address :</td>
+        <td>{{emprec.address}}</td>
+    </tr>
+    <tr>
+        <td> Department :</td>
+        <td>{{emprec.deptName}}</td>
+    </tr>
+</table>
+<input type="button" value="Delete" (click)="DeleteEmployee()" class="btn btn-danger"/>
