@@ -29,7 +29,8 @@ export class EmployeeService {
   }
 
   modifyEmployee(rec: IEmployee): Observable<any> {
-    return this.http.put(this.url, rec, { responseType: 'text' });
+    alert(JSON.stringify(rec));
+    return this.http.put(this.url, rec, { responseType: "text" });
   }
 
   removeEmployee(eid: number): Observable<any> {

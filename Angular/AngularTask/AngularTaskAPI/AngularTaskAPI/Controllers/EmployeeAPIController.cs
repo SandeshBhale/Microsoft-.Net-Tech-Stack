@@ -51,7 +51,7 @@ namespace AngularTaskAPI.Controllers
         }
 
         [HttpPost]
-        public IActionResult CreateEmployee(EmpVM rec)
+        public IActionResult CreateEmployee(Employee rec)
         {
             if (rec == null)
                 return BadRequest();
@@ -74,7 +74,7 @@ namespace AngularTaskAPI.Controllers
         }
 
         [HttpPut]
-        public IActionResult UpdateEmployee(Employee rec)
+        public IActionResult UpdateEmployee(EmpVM rec)
         {
             if (rec == null)
                 return BadRequest();

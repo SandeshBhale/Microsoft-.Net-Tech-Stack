@@ -56,7 +56,7 @@ export class EditEmployeeComponent implements OnInit {
         alert("Employee Updated !!");
         this.rt.navigate(['/employee'])
       },
-      (err) => alert("Error !" + (err))
+      (err) => alert("Error !" + JSON.stringify(err))
     );
   }
 }

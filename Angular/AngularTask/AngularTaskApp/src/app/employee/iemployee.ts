@@ -4,6 +4,5 @@ export interface IEmployee {
     designation: string,
     empSal: string,
     address: string,
-    deptId: number,
-    deptName: string
+    deptId: number
 }
