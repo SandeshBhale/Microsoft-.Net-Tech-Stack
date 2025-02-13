@@ -51,6 +51,7 @@ namespace AngularTaskAPI.Controllers
         }
 
         [HttpPost]
+        [HttpPost]
         public IActionResult CreateEmployee(Employee rec)
         {
             if (rec == null)
@@ -64,14 +65,16 @@ namespace AngularTaskAPI.Controllers
                 e.Designation = rec.Designation;
                 e.Address = rec.Address;
                 e.DeptId = rec.DeptId;
+                e.Department = rec.Department;
+
                 this.ec.Employees.Add(e);
-                //this.ec.Employees.Add(rec);
                 this.ec.SaveChanges();
-                return Ok("Customer Saved!");
+                return Ok("Employee Saved!");
             }
 
             return BadRequest(ModelState);
         }
+
 
         [HttpPut]
         public IActionResult UpdateEmployee(EmpVM rec)
@@ -81,13 +84,14 @@ namespace AngularTaskAPI.Controllers
 
             if (ModelState.IsValid)
             {
-                Employee e = new Employee();
+                EmpVM e = new EmpVM();
                 e.EmpName = rec.EmpName;
                 e.EmpSal = rec.EmpSal;
                 e.Designation = rec.Designation;
                 e.Address = rec.Address;
                 e.DeptId = rec.DeptId;
-                this.ec.Employees.Add(e);
+                e.DeptName = rec.DeptName;
+                this.ec.Add(e);
                 //this.ec.Entry(rec).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
                 this.ec.SaveChanges();
                 return Ok("Employee Updated !!");

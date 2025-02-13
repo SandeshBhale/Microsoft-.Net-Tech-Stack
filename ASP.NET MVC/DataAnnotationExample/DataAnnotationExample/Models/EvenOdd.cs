@@ -9,7 +9,7 @@ namespace DataAnnotationExample.Models
     public class EvenOdd : ValidationAttribute
     {
        public override bool IsValid(object value)
-        {
+       {
             decimal result = Convert.ToDecimal(value);
             {
                 if (result % 2 == 0)
@@ -21,6 +21,6 @@ namespace DataAnnotationExample.Models
                     return false;
                 }
             }
-        }
+       }
     }
 }

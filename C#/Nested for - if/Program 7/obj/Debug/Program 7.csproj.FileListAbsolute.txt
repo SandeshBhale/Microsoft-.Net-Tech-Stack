@@ -6,3 +6,10 @@ C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input 12 integer number and sum of 
 C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input 12 integer number and sum of even and odd (Nested for - if )\Program 7\obj\Debug\Program 7.csproj.CoreCompileInputs.cache
 C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input 12 integer number and sum of even and odd (Nested for - if )\Program 7\obj\Debug\Program 7.exe
 C:\Users\SANDESH\Desktop\RI-Tech\Basics .net\Input 12 integer number and sum of even and odd (Nested for - if )\Program 7\obj\Debug\Program 7.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Git\C#\Nested for - if\Program 7\bin\Debug\Program 7.exe.config
+C:\Users\SANDESH\Desktop\RI-Tech\Git\C#\Nested for - if\Program 7\bin\Debug\Program 7.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git\C#\Nested for - if\Program 7\bin\Debug\Program 7.pdb
+C:\Users\SANDESH\Desktop\RI-Tech\Git\C#\Nested for - if\Program 7\obj\Debug\Program 7.csproj.AssemblyReference.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git\C#\Nested for - if\Program 7\obj\Debug\Program 7.csproj.CoreCompileInputs.cache
+C:\Users\SANDESH\Desktop\RI-Tech\Git\C#\Nested for - if\Program 7\obj\Debug\Program 7.exe
+C:\Users\SANDESH\Desktop\RI-Tech\Git\C#\Nested for - if\Program 7\obj\Debug\Program 7.pdb

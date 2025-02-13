@@ -4,5 +4,6 @@ export interface Icustomer {
     address: string,
     emailID: string,
     mobileNo: string,
-    creditLimit: number
+    creditLimit: number,
+    deptName: string
 }

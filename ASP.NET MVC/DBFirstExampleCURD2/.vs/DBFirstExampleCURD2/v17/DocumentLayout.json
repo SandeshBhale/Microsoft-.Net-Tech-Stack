@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{8B80F289-1D16-4DCC-8F9F-F87DFD50285D}|DBFirstExampleCURD2\\DBFirstExampleCURD2.csproj|solutionrelative:dbfirstexamplecurd2\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8B80F289-1D16-4DCC-8F9F-F87DFD50285D}|DBFirstExampleCURD2\\DBFirstExampleCURD2.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\asp.net mvc\\dbfirstexamplecurd2\\dbfirstexamplecurd2\\models\\eadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B80F289-1D16-4DCC-8F9F-F87DFD50285D}|DBFirstExampleCURD2\\DBFirstExampleCURD2.csproj|solutionrelative:dbfirstexamplecurd2\\models\\eadvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8B80F289-1D16-4DCC-8F9F-F87DFD50285D}|DBFirstExampleCURD2\\DBFirstExampleCURD2.csproj|C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET MVC\\DBFirstExampleCURD2\\dbfirstexamplecurd2\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8B80F289-1D16-4DCC-8F9F-F87DFD50285D}|DBFirstExampleCURD2\\DBFirstExampleCURD2.csproj|solutionrelative:dbfirstexamplecurd2\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +46,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "EADVM.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET MVC\\DBFirstExampleCURD2\\DBFirstExampleCURD2\\Models\\EADVM.cs",
+              "RelativeDocumentMoniker": "DBFirstExampleCURD2\\Models\\EADVM.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET MVC\\DBFirstExampleCURD2\\DBFirstExampleCURD2\\Models\\EADVM.cs",
+              "RelativeToolTip": "DBFirstExampleCURD2\\Models\\EADVM.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T01:51:53.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET MVC\\DBFirstExampleCURD2\\DBFirstExampleCURD2\\Views\\Test\\Update.cshtml",
               "RelativeDocumentMoniker": "DBFirstExampleCURD2\\Views\\Test\\Update.cshtml",
@@ -54,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET MVC\\DBFirstExampleCURD2\\DBFirstExampleCURD2\\Views\\Test\\Create.cshtml",
               "RelativeDocumentMoniker": "DBFirstExampleCURD2\\Views\\Test\\Create.cshtml",
@@ -72,14 +89,14 @@
               "RelativeDocumentMoniker": "DBFirstExampleCURD2\\Controllers\\TestController.cs",
               "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET MVC\\DBFirstExampleCURD2\\DBFirstExampleCURD2\\Controllers\\TestController.cs",
               "RelativeToolTip": "DBFirstExampleCURD2\\Controllers\\TestController.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAlwCQAAAAmAAAA",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-01T05:41:28.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET MVC\\DBFirstExampleCURD2\\DBFirstExampleCURD2\\Views\\Test\\Index.cshtml",
               "RelativeDocumentMoniker": "DBFirstExampleCURD2\\Views\\Test\\Index.cshtml",

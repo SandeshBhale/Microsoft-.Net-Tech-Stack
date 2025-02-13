@@ -48,13 +48,13 @@ namespace Program_15
 
             for(int i = 0; i < 5; i++)
             {
-                    Console.Write("Enter book id ");
+                    Console.Write("Enter book id : ");
                     bid = Convert.ToInt32(Console.ReadLine());
-                    Console.Write("Enter book name ");
+                    Console.Write("Enter book name : ");
                     bname = Console.ReadLine();
-                    Console.Write("Enter auther name ");
+                    Console.Write("Enter auther name : ");
                     aname = Console.ReadLine();
-                    Console.Write("Enter Price ");
+                    Console.Write("Enter Price : ");
                     price = Convert.ToDouble(Console.ReadLine());
 
                     b[i] = new book();

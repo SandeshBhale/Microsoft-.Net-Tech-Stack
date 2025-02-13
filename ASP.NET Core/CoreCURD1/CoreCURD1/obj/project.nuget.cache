@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "A1WKFK/0q39YoELG4+no93GHZVJ2mTSwIq3wGvdg9UuK07gSOea43z0BRyOk/yP0iJr02dTtmg8l6p+sIUs4VQ==",
+  "dgSpecHash": "9H5ewHjPMCw=",
   "success": true,
   "projectFilePath": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET Core\\CoreCURD1\\CoreCURD1\\CoreCURD1.csproj",
   "expectedPackageFiles": [
@@ -102,5 +102,12 @@
     "C:\\Users\\SANDESH\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\SANDESH\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

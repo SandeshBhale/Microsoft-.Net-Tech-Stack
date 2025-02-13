@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET MVC\\CodeFirstExample2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3500BBE-9CA8-421B-AA81-92F298295B42}|CodeFirstExample2\\CodeFirstExample2.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\asp.net mvc\\codefirstexample2\\codefirstexample2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3500BBE-9CA8-421B-AA81-92F298295B42}|CodeFirstExample2\\CodeFirstExample2.csproj|solutionrelative:codefirstexample2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3500BBE-9CA8-421B-AA81-92F298295B42}|CodeFirstExample2\\CodeFirstExample2.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\asp.net mvc\\codefirstexample2\\codefirstexample2\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3500BBE-9CA8-421B-AA81-92F298295B42}|CodeFirstExample2\\CodeFirstExample2.csproj|solutionrelative:codefirstexample2\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3500BBE-9CA8-421B-AA81-92F298295B42}|CodeFirstExample2\\CodeFirstExample2.csproj|C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET MVC\\CodeFirstExample2\\codefirstexample2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3500BBE-9CA8-421B-AA81-92F298295B42}|CodeFirstExample2\\CodeFirstExample2.csproj|solutionrelative:codefirstexample2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3500BBE-9CA8-421B-AA81-92F298295B42}|CodeFirstExample2\\CodeFirstExample2.csproj|c:\\users\\sandesh\\desktop\\ri-tech\\git\\asp.net mvc\\codefirstexample2\\codefirstexample2\\models\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3500BBE-9CA8-421B-AA81-92F298295B42}|CodeFirstExample2\\CodeFirstExample2.csproj|solutionrelative:codefirstexample2\\models\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET MVC\\CodeFirstExample2\\CodeFirstExample2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CodeFirstExample2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET MVC\\CodeFirstExample2\\CodeFirstExample2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CodeFirstExample2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T01:48:19.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpContext.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET MVC\\CodeFirstExample2\\CodeFirstExample2\\Models\\EmpContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstExample2\\Models\\EmpContext.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET MVC\\CodeFirstExample2\\CodeFirstExample2\\Models\\EmpContext.cs",
+              "RelativeToolTip": "CodeFirstExample2\\Models\\EmpContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T01:47:34.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET MVC\\CodeFirstExample2\\CodeFirstExample2\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "CodeFirstExample2\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET MVC\\CodeFirstExample2\\CodeFirstExample2\\Controllers\\TestController.cs",
+              "RelativeToolTip": "CodeFirstExample2\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T07:14:32.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET MVC\\CodeFirstExample2\\CodeFirstExample2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CodeFirstExample2\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\SANDESH\\Desktop\\RI-Tech\\Git\\ASP.NET MVC\\CodeFirstExample2\\CodeFirstExample2\\Models\\Employee.cs",
+              "RelativeToolTip": "CodeFirstExample2\\Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T05:23:38.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
